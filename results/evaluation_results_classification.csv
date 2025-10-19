@@ -1,0 +1,161 @@
+﻿filename,ground_truth,prediction,accuracy,status
+1689120590238.jpg,Caranx sexfasciatus,Seriola rivoliana,0.26666666666666666,MISMATCH
+1689577829534.jpg,Scomberomorus commerson,,-1.0,MISMATCH
+1689577974563.jpg,Scomberomorus commerson,Scomberomorus cavalla,0.9333333333333333,MISMATCH
+1689594468820.jpg,Lutjanus gibbus,Stenotomus chrysops,0.8666666666666667,MISMATCH
+1689651076768.jpg,Scomberomorus commerson,Scomberomorus cavalla,0.6666666666666666,MISMATCH
+1689651811316.jpg,Scomberomorus commerson,Xiphias gladius,1.0,MISMATCH
+1689652491689.jpg,Scomberomorus commerson,,-1.0,MISMATCH
+1689733035992.jpg,Acanthocybium solandri,Acanthocybium solandri,1.0,MATCH
+1689739881340.jpg,Scomberomorus commerson,,-1.0,MISMATCH
+1689739901296.jpg,Scomberomorus commerson,Scomberomorus cavalla,0.9333333333333333,MISMATCH
+1689740066618.jpg,Scomberomorus commerson,Scomberomorus commerson,1.0,MATCH
+1689740260887.jpg,Caranx sexfasciatus,Caranx ignobilis,1.0,MISMATCH
+1689743257346.jpg,Scomberomorus commerson,Scomberomorus cavalla,0.8,MISMATCH
+1690337039741.jpg,Caranx sexfasciatus,Caranx ignobilis,0.6,MISMATCH
+1690349481994.jpg,Caranx melampygus,Trachinotus falcatus,1.0,MISMATCH
+1690349481994.jpg,Caranx melampygus,Trachinotus falcatus,1.0,MISMATCH
+1690466885625.jpg,Caranx sexfasciatus,Caranx sexfasciatus,1.0,MATCH
+1690544392983.jpg,Caranx sexfasciatus,,-1.0,MISMATCH
+1690544392983.jpg,Caranx sexfasciatus,,-1.0,MISMATCH
+1690598682706.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1690599089156.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1690599089156.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1690890877921.jpg,Lutjanus timoriensis,Pachymetopon blochii,0.2,MISMATCH
+1691197797009.jpg,Caranx melampygus,Trachinotus falcatus,0.8666666666666667,MISMATCH
+1691197797009.jpg,Caranx melampygus,Trachinotus falcatus,0.8666666666666667,MISMATCH
+1691201510682.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1691201635655.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1691201728522.jpg,Lutjanus gibbus,Abramis brama,1.0,MISMATCH
+1691234458029.jpg,Elagatis bipinnulata,Elagatis bipinnulata,1.0,MATCH
+1691235083249.jpg,Caranx sexfasciatus,Caranx sexfasciatus,0.4,MATCH
+1691235144639.jpg,Elagatis bipinnulata,,-1.0,MISMATCH
+1691235476798.jpg,Elagatis bipinnulata,,-1.0,MISMATCH
+1691235509689.jpg,Caranx sexfasciatus,Caranx sexfasciatus,0.9333333333333333,MATCH
+1691235988859.jpg,Elagatis bipinnulata,Scomberoides lysan,0.4666666666666667,MISMATCH
+1691236115459.jpg,Elagatis bipinnulata,Scomberoides lysan,0.4666666666666667,MISMATCH
+1692330985857.jpg,Pomadasys kaakan,,-1.0,MISMATCH
+1692413225981.jpg,Lutjanus gibbus,Lutjanus analis,0.7333333333333333,MISMATCH
+1692413842219.jpg,Lutjanus gibbus,Pachymetopon blochii,0.8666666666666667,MISMATCH
+1692414093710.jpg,Lutjanus gibbus,Dicentrarchus labrax,0.8666666666666667,MISMATCH
+1692414486273.jpg,Lutjanus gibbus,Abramis brama,1.0,MISMATCH
+1692581137223.jpg,Caranx sexfasciatus,Caranx ignobilis,1.0,MISMATCH
+1692581157271.jpg,Caranx sexfasciatus,Caranx ignobilis,1.0,MISMATCH
+1693045597639.jpg,Lutjanus gibbus,Centropristis striata,0.8,MISMATCH
+1693046054194.jpg,Caranx sexfasciatus,Caranx crysos,1.0,MISMATCH
+1693046054194.jpg,Caranx sexfasciatus,Caranx crysos,1.0,MISMATCH
+1693046250037.jpg,Caranx sexfasciatus,Caranx ignobilis,0.9333333333333333,MISMATCH
+1693046250037.jpg,Caranx sexfasciatus,Caranx ignobilis,0.9333333333333333,MISMATCH
+1693046470745.jpg,Lutjanus gibbus,Centropristis striata,0.8,MISMATCH
+1693046853848.jpg,Lutjanus gibbus,Abramis brama,1.0,MISMATCH
+1693444885638.jpg,Scomberomorus commerson,Scomberomorus commerson,0.8666666666666667,MATCH
+1693450624018.jpg,Caranx sexfasciatus,Caranx sexfasciatus,0.7333333333333333,MATCH
+1693535715149.jpg,Caranx sexfasciatus,Caranx sexfasciatus,0.4,MATCH
+1693546581340.jpg,Caranx melampygus,Selene vomer,1.0,MISMATCH
+1693546778635.jpg,Seriola dumerili,Alectis ciliaris,0.8,MISMATCH
+1693549640994.jpg,Caranx melampygus,Trachinotus falcatus,0.9333333333333333,MISMATCH
+1694346646225.jpg,Caranx sexfasciatus,Caranx sexfasciatus,1.0,MATCH
+1694865793188.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1695258772293.jpg,Caranx sexfasciatus,Caranx crysos,1.0,MISMATCH
+1695267680911.jpg,Caranx melampygus,Caranx crysos,1.0,MISMATCH
+1695389712651.jpg,Elagatis bipinnulata,,-1.0,MISMATCH
+1695389756695.jpg,Variola albimarginata,,-1.0,MISMATCH
+1695511150791.jpg,Caranx melampygus,Trachinotus falcatus,1.0,MISMATCH
+1695511964208.jpg,Caranx melampygus,,-1.0,MISMATCH
+1695521758525.jpg,Caranx melampygus,Trachinotus falcatus,1.0,MISMATCH
+1695691830697.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1695713427558.jpg,Lutjanus gibbus,Pachymetopon blochii,0.7333333333333333,MISMATCH
+1695734906095.jpg,Acanthocybium solandri,,-1.0,MISMATCH
+1695735175273.jpg,Acanthocybium solandri,Scomberomorus commerson,0.9333333333333333,MISMATCH
+1695735670368.jpg,Acanthocybium solandri,Thyrsites atun,1.0,MISMATCH
+1695735670368.jpg,Acanthocybium solandri,Thyrsites atun,1.0,MISMATCH
+1696333279652.jpg,Lutjanus gibbus,Lutjanus analis,1.0,MISMATCH
+1696496895174.jpg,Lutjanus gibbus,Pachymetopon blochii,0.6666666666666666,MISMATCH
+1696677986326.jpg,Scarus quoyi,,-1.0,MISMATCH
+1696677986326.jpg,Scarus quoyi,,-1.0,MISMATCH
+1696945542849.jpg,Lutjanus gibbus,Stenotomus chrysops,1.0,MISMATCH
+1696946750249.jpg,Lutjanus gibbus,Calamus bajonado,1.0,MISMATCH
+1696947493558.jpg,Scarus quoyi,,-1.0,MISMATCH
+1696947493558.jpg,Scarus quoyi,,-1.0,MISMATCH
+1697005652932.jpg,Lutjanus gibbus,Spondyliosoma cantharus,0.9333333333333333,MISMATCH
+1697012766699.jpg,Lutjanus gibbus,Spondyliosoma cantharus,0.8666666666666667,MISMATCH
+1697114382541.jpg,Caranx melampygus,Caranx lugubris,0.7333333333333333,MISMATCH
+1697114451439.jpg,Lutjanus gibbus,Lutjanus bohar,0.9333333333333333,MISMATCH
+1697114533401.jpg,Lutjanus gibbus,Centropristis striata,0.8666666666666667,MISMATCH
+1697115180424.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697115186816.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697115495415.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697115710031.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697192142521.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697192142521.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697269648589.jpg,Tylosurus crocodilus,,-1.0,MISMATCH
+1697271152607.jpg,Caranx melampygus,Caranx lugubris,0.9333333333333333,MISMATCH
+1697271152607.jpg,Caranx melampygus,Caranx lugubris,0.9333333333333333,MISMATCH
+1697272759438.jpg,Polydactylus sp.,,-1.0,MISMATCH
+1697273193293.jpg,Acanthocybium solandri,Acanthocybium solandri,0.8,MATCH
+1697505523144.jpg,Lutjanus gibbus,Lutjanus analis,1.0,MISMATCH
+1697506247065.jpg,Lutjanus gibbus,Lutjanus analis,1.0,MISMATCH
+1697506294036.jpg,Siganus spinus,,-1.0,MISMATCH
+1697506355974.jpg,Lutjanus gibbus,Lutjanus analis,1.0,MISMATCH
+1697506406466.jpg,Lutjanus gibbus,Lutjanus analis,1.0,MISMATCH
+1697506536349.jpg,Scolopsis lineata,Pachymetopon blochii,0.8,MISMATCH
+1697506620470.jpg,Lutjanus gibbus,Stenotomus chrysops,1.0,MISMATCH
+1697506693057.jpg,Lutjanus gibbus,Lutjanus gibbus,1.0,MATCH
+1697698487485.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1697699933364.jpg,Caranx sexfasciatus,Caranx ignobilis,0.8666666666666667,MISMATCH
+1697864502865.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1697864667586.jpg,Lutjanus gibbus,Stenotomus chrysops,0.9333333333333333,MISMATCH
+1697864792743.jpg,Lutjanus gibbus,Tautoga onitis,0.9333333333333333,MISMATCH
+1697864893088.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1697865090545.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1698141339810.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698141339810.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698143082765.jpg,Caranx ignobilis,,-1.0,MISMATCH
+1698143235892.jpg,Caranx ignobilis,,-1.0,MISMATCH
+1698274064708.jpg,Lutjanus gibbus,Pachymetopon blochii,1.0,MISMATCH
+1698318241974.jpg,Lutjanus bohar,Rhabdosargus sarba,1.0,MISMATCH
+1698324089147.jpg,Lutjanus gibbus,Stenotomus chrysops,0.6,MISMATCH
+1698527855359.jpg,Lutjanus gibbus,Pachymetopon blochii,0.8666666666666667,MISMATCH
+1698528173571.jpg,Caranx melampygus,Caranx ignobilis,0.8,MISMATCH
+1698528209061.jpg,Lutjanus gibbus,Lutjanus analis,0.8666666666666667,MISMATCH
+1698528308697.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1698528308697.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1698528467655.jpg,Lutjanus gibbus,Pachymetopon blochii,0.8666666666666667,MISMATCH
+1698528638801.jpg,Lutjanus gibbus,Lutjanus bohar,1.0,MISMATCH
+1698528638801.jpg,Lutjanus gibbus,Lutjanus bohar,1.0,MISMATCH
+1698546478939.jpg,Caranx melampygus,Gnathanodon speciosus,0.3333333333333333,MISMATCH
+1698546986877.jpg,Caranx melampygus,Caranx ignobilis,0.6666666666666666,MISMATCH
+1698547581641.jpg,Lutjanus gibbus,Stenotomus chrysops,0.9333333333333333,MISMATCH
+1698548194367.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1698549061480.jpg,Alectis ciliaris,Alectis ciliaris,1.0,MATCH
+1698660942801.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698661235894.jpg,Lutjanus gibbus,Anisotremus surinamensis,0.3333333333333333,MISMATCH
+1698661390954.jpg,Lutjanus gibbus,Amia calva,1.0,MISMATCH
+1698661562885.jpg,Lutjanus gibbus,Stenotomus chrysops,1.0,MISMATCH
+1698662104886.jpg,Lutjanus gibbus,Pachymetopon blochii,0.9333333333333333,MISMATCH
+1698662651172.jpg,Lutjanus gibbus,Pogonias cromis,1.0,MISMATCH
+1698662758223.jpg,Lutjanus gibbus,Calamus bajonado,0.9333333333333333,MISMATCH
+1698662908475.jpg,Lutjanus gibbus,Stenotomus chrysops,1.0,MISMATCH
+1698663806513.jpg,Siganus spinus,,-1.0,MISMATCH
+1698740072533.jpg,Lutjanus gibbus,Dicentrarchus labrax,0.8,MISMATCH
+1698740471563.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698740970816.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698741342007.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698741342007.jpg,Lutjanus gibbus,,-1.0,MISMATCH
+1698926218599.jpg,Lutjanus gibbus,Pachymetopon blochii,0.8666666666666667,MISMATCH
+1698926724684.jpg,Lutjanus gibbus,Ictalurus furcatus,1.0,MISMATCH
+1698927145975.jpg,Lutjanus gibbus,Lutjanus bohar,0.6666666666666666,MISMATCH
+1698927262789.jpg,Lutjanus gibbus,Stenotomus chrysops,0.7333333333333333,MISMATCH
+1698927784464.jpg,Lutjanus gibbus,Pagrus pagrus,1.0,MISMATCH
+1698928222909.jpg,Lutjanus gibbus,Pagrus pagrus,0.9333333333333333,MISMATCH
+1698928321548.jpg,Lutjanus gibbus,Pagrus pagrus,0.9333333333333333,MISMATCH
+1698928724030.jpg,Siganus spinus,,-1.0,MISMATCH
+1699164458540.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1699167222100.jpg,Lutjanus bohar,Lutjanus bohar,1.0,MATCH
+1699167338210.jpg,Lutjanus bohar,,-1.0,MISMATCH
+1699355005032.jpg,Aphareus rutilans,Seriola rivoliana,0.9333333333333333,MISMATCH
+1699355166176.jpg,Lutjanus gibbus,Pogonias cromis,0.6,MISMATCH
+1699355166176.jpg,Lutjanus gibbus,Pogonias cromis,0.6,MISMATCH
+1699355371850.jpg,Aphareus rutilans,Caranx ignobilis,0.8666666666666667,MISMATCH
+1699355371850.jpg,Aphareus rutilans,Caranx ignobilis,0.8666666666666667,MISMATCH
+1699356483694.jpg,Caranx melampygus,Scomberomorus regalis,1.0,MISMATCH
