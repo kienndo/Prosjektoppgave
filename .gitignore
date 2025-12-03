@@ -8,5 +8,5 @@
 *.npz
 *.jpg
 *.png
-dataset/
+data_images/
 __pycache__/
