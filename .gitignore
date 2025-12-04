@@ -10,3 +10,4 @@
 *.png
 data_images/
 __pycache__/
+yolo/dataset/

@@ -1,0 +1,345 @@
+species_name,EN_name,EN_name_fishbase,shape,max_size,size_type
+Albula vulpes,Bonefish,Bonefish,fusiform / normal,104,TL
+Elops machnata,Tenpounder,Tenpounder,elongated,118,FL
+Gymnomuraena zebra,Zebra moray,Zebra moray,eel-like,150,TL
+Echidna polyzona,Barred moray,Barred moray,eel-like,72.30000305,TL
+Gymnothorax flavimarginatus,Yellow–edged moray,Yellow-edged moray,eel-like,240,TL
+Gymnothorax griseus,Geometric moray,Geometric moray,eel-like,65,TL
+Gymnothorax javanicus,Turkey moray,Giant moray,eel-like,300,TL
+Gymnothorax monochrous,Drab moray,Drab moray,eel-like,80,TL
+Gymnothorax nudivomer,Yellowmouth moray,Yellowmouth moray,eel-like,180,TL
+Gymnothorax rueppellii,Banded moray,NA,NA,NA,NA
+Pseudechidna brummeri,White ribbon eel,White ribbon eel,eel-like,103,TL
+Gymnothorax pictus,Peppered moray,Paintspotted moray,eel-like,140,TL
+Strophidon sathete,Slender giant moray,Slender giant moray,eel-like,400,TL
+Uropterygius marmoratus,Marbled reef–eel,Marbled reef-eel,eel-like,62,SL
+Lamnostoma orientalis,Oriental worm–eel,NA,NA,NA,NA
+Pisodonophis boro,Rice–paddy eel,Rice-paddy eel,eel-like,100,TL
+Uroconger lepturus,Slender conger,Slender conger,eel-like,52,TL
+Muraenesox bagio,Common pike conger,Common pike conger,eel-like,200,TL
+Muraenesox cinereus,Daggertooth pike conger,Daggertooth pike conger,fusiform / normal,220,TL
+Amblygaster leiogaster,Smoothbelly sardinella,Smoothbelly sardinella,elongated,23,SL
+Etrumeus teres,Red–eye round herring,NA,NA,NA,NA
+Herklotsichthys spilurus,Reunion herring,NA,NA,NA,NA
+Hilsa kelee,Kelee shad,Kelee shad,fusiform / normal,35,TL
+Sardinella albella,White sardinella,White sardinella,fusiform / normal,15,TL
+Sardinella melanura,Blacktip sardinella,Blacktip sardinella,fusiform / normal,20.29999924,SL
+Spratelloides delicatulus,Delicate round herring,Delicate round herring,fusiform / normal,7,SL
+Encrasicholina heteroloba,Shorthead anchovy,Shorthead anchovy,elongated,12,SL
+Encrasicholina devisi,Devis’ anchovy,Devis' anchovy,elongated,9.699999809,TL
+Stolephorus indicus,Commerson’s anchovy,Indian anchovy,elongated,15.5,SL
+Thryssa baelama,Baelama anchovy,NA,NA,NA,NA
+Thryssa setirostris,Longjaw thryssa,Longjaw thryssa,fusiform / normal,18,SL
+Chirocentrus dorab,Dorab wolf–herring,Dorab wolf-herring,elongated,100,SL
+Chanos chanos,Milkfish,Milkfish,elongated,180,SL
+Plicofollis polystaphylodon,Blacktip sea catfish,Mozambique sea catfish,fusiform / normal,35,SL
+Plotosus lineatus,Striped eel catfish,Striped eel catfish,fusiform / normal,35.20000076,TL
+Saurida gracilis,Gracile lizardfish,Gracile lizardfish,elongated,32,SL
+Saurida tumbil,Greater lizardfish,Greater lizardfish,elongated,60,FL
+Synodus indicus,Two–spot lizardfish,Indian lizardfish,elongated,33,TL
+Malacocephalus laevis,Softhead grenadier,Softhead grenadier,elongated,60,TL
+Trachinocephalus myops,Snakefish,Snakefish,elongated,32.59999847,TL
+Lophiodes mutilus,Goatsbeard brotula,Smooth angler,short and / or deep,45,TL
+Ventrifossa petersonii,Peterson’s grenadier,Peterson's grenadier,elongated,42,TL
+Lophiomus setigerus,Blackmouth angler,Blackmouth angler,short and / or deep,40,TL
+Atherinomorus lacunosus,Hardyhead silverside,Wide-banded hardyhead silverside,elongated,25,TL
+Atherinomorus duodecimalis,Tropical silverside,NA,NA,NA,NA
+Hypoatherina temminckii,Samoan silverside,Samoan silverside,elongated,12,TL
+Ablennes hians,Flat needlefish,Flat needlefish,elongated,140,TL
+Tylosurus crocodilus crocodilus,Banded needlefish,NA,NA,NA,NA
+Platybelone platyura,Keeltail needlefish,Keeled needlefish,eel-like,45,TL
+Euleptorhamphus viridis,Ribbon halfbeak,Ribbon halfbeak,eel-like,53,TL
+Cheilopogon atrisignis,Glider flyingfish,Glider flyingfish,elongated,33,SL
+Hyporhamphus dussumieri,Dussumier’s halfbeak,Dussumier's halfbeak,elongated,38,SL
+Cheilopogon cyanopterus,Margined flyingfish,Margined flyingfish,elongated,40,TL
+Cheilopogon furcatus,Spotfin flyingfish,Spotfin flyingfish,elongated,35,TL
+Cypselurus naresii,Pharao flyingfish,Pharao flyingfish,fusiform / normal,21,SL
+Cypselurus oligolepis,Largescale flyingfish,Largescale flyingfish,elongated,27.70000076,TL
+Parexocoetus brachypterus,Sailfin flyingfish,Sailfin flyingfish,elongated,20,TL
+Parexocoetus mento,African sailfin flyingfish,African sailfin flyingfish,elongated,11,SL
+Prognichthys brevipinnis,Shortfin flyingfish,Shortfin flyingfish,elongated,19,SL
+Myripristis murdjan,Pinecone soldierfish,Pinecone soldierfish,fusiform / normal,60,TL
+Neoniphon opercularis,Blackfin squirrelfish,Blackfin squirrelfish,fusiform / normal,35,TL
+Sargocentron caudimaculatum,Silverspot squirrelfish,Silverspot squirrelfish,fusiform / normal,25,TL
+Neoniphon sammara,Sammara squirrelfish,Sammara squirrelfish,fusiform / normal,32,TL
+Ostichthys archiepiscopus,Longsnout soldier,Straighthead soldierfish,short and / or deep,32,TL
+Sargocentron diadema,Crown squirrelfish,Crown squirrelfish,fusiform / normal,17,TL
+Sargocentron ittodai,Samurai squirrelfish,Samurai squirrelfish,fusiform / normal,20,TL
+Sargocentron punctatissimum,Blackblotch squirrelfish,Speckled squirrelfish,fusiform / normal,23,TL
+Sargocentron praslin,Dark–striped squirrelfish,Dark-striped squirrelfish,fusiform / normal,32,TL
+Sargocentron spiniferum,Sabre squirrelfish,Sabre squirrelfish,fusiform / normal,51,FL
+Sargocentron violaceum,Violet soldierfish,Violet squirrelfish,fusiform / normal,45,TL
+Cyttopsis rosea,Rosy dory,Rosy dory,short and / or deep,31,TL
+Aulostomus chinensis,Chinese trumpetfish,Chinese trumpetfish,elongated,80,TL
+Dendrochirus brachypterus,Shortfin turkeyfish,Dwarf lionfish,fusiform / normal,17,TL
+Dendrochirus zebra,Zebra turkeyfish,Zebra turkeyfish,fusiform / normal,25,SL
+Pterois antennata,Broadbarred firefish,Broadbarred firefish,fusiform / normal,20,TL
+Pterois miles,Devil firefish,Devil firefish,fusiform / normal,43,TL
+Pterois mombasae,Frillfin turkeyfish,Frillfin turkeyfish,fusiform / normal,20,SL
+Pterois volitans,Red lionfish,Red lionfish,fusiform / normal,45.70000076,TL
+Scorpaenopsis diabolus,False stonefish,False stonefish,fusiform / normal,30,TL
+Scorpaenopsis gibbosa,Humpbacked scorpionfish,Humpbacked scorpionfish,fusiform / normal,21,SL
+Apistus carinatus,Ocellated waspfish,Ocellated waspfish,fusiform / normal,20,TL
+Dactyloptena orientalis,Oriental flying gurnard,Oriental flying gurnard,elongated,40,TL
+Cociella crocodilus,Crocodile flathead,Crocodile flathead,elongated,50,TL
+Sorsogona prionota,Halfspined flathead,Halfspined flathead,elongated,22,TL
+Platycephalus indicus,Bartail flathead,Bartail flathead,elongated,100,TL
+Rogadius pristiger,Thorny flathead,Thorny flathead,elongated,50,TL
+Synagrops japonicus,Blackmouth splitfin,Blackmouth splitfin,fusiform / normal,35,SL
+Aethaloperca rogaa,Redmouth grouper,Redmouth grouper,short and / or deep,60,TL
+Anyperodon leucogrammicus,Slender grouper,Slender grouper,fusiform / normal,65,TL
+Cephalopholis aurantia,Peackock hind,Golden hind,fusiform / normal,60,TL
+Cephalopholis boenak,Chocolate hind,Chocolate hind,fusiform / normal,30,TL
+Cephalopholis leopardus,Leopard hind,Leopard hind,fusiform / normal,24,TL
+Cephalopholis sonnerati,Tomato hind,Tomato hind,fusiform / normal,57,TL
+Cephalopholis miniata,Coral hind,Coral hind,fusiform / normal,50,TL
+Cephalopholis nigripinnis,Darkfin hind,Blackfin grouper,fusiform / normal,28,TL
+Epinephelus chabaudi,Moustache grouper,NA,NA,NA,NA
+Dermatolepis striolata,Smooth grouper,Smooth grouper,fusiform / normal,85,TL
+Cephalopholis spiloparaea,Strawberry hind,Strawberry hind,fusiform / normal,30,TL
+Epinephelus epistictus,Dotted grouper,Dotted grouper,fusiform / normal,80,TL
+Epinephelus coeruleopunctatus,Whitespotted grouper,Whitespotted grouper,fusiform / normal,76,TL
+Epinephelus chlorostigma,Brownspotted grouper,Brownspotted grouper,fusiform / normal,80,TL
+Epinephelus flavocaeruleus,Blue–and–yellow grouper,Blue-and-yellow grouper,fusiform / normal,90,TL
+Epinephelus fuscoguttatus,Brown–marbled grouper,Brown-marbled grouper,fusiform / normal,120,TL
+Epinephelus fasciatus,Blacktip grouper,Blacktip grouper,fusiform / normal,52,TL
+Epinephelus macrospilos,Snubnose grouper,Snubnose grouper,fusiform / normal,51,TL
+Epinephelus lanceolatus,Giant grouper,Giant grouper,fusiform / normal,270,TL
+Epinephelus longispinis,Longspine grouper,Longspine grouper,fusiform / normal,55,TL
+Epinephelus malabaricus,Malabar grouper,Malabar grouper,fusiform / normal,234,TL
+Epinephelus morrhua,Honeycomb grouper,Comet grouper,fusiform / normal,90,TL
+Epinephelus poecilonotus,Dot–dash grouper,Dot-dash grouper,fusiform / normal,65,TL
+Epinephelus multinotatus,White–blotched grouper,White-blotched grouper,fusiform / normal,100,TL
+Epinephelus rivulatus,Halfmoon grouper,Halfmoon grouper,fusiform / normal,45,TL
+Epinephelus polyphekadion,Camouflage grouper,Camouflage grouper,fusiform / normal,90,SL
+Gracila albomarginata,Wavy–lined grouper,Masked grouper,fusiform / normal,40,TL
+Epinephelus tauvina,Greasy grouper,Greasy grouper,fusiform / normal,100,TL
+Grammistes sexlineatus,Goldenstriped soapfish,Goldenstriped soapfish,fusiform / normal,30,TL
+Plectropomus laevis,Blacksaddled coralgrouper,Blacksaddled coralgrouper,fusiform / normal,125,TL
+Plectropomus pessuliferus,Roving coralgrouper,Roving coralgrouper,fusiform / normal,120,TL
+Plectropomus punctatus,Marbled coralgrouper,Marbled coralgrouper,fusiform / normal,96,TL
+Terapon jarbua,Fourlined terapon,Jarbua terapon,fusiform / normal,36,TL
+Kuhlia rupestris,Barred flagtail,Rock flagtail,fusiform / normal,45,TL
+Heteropriacanthus cruentatus,Longfinned bullseye,Glasseye,fusiform / normal,50.70000076,TL
+Pristigenys niphonia,Moontail bullseye,Japanese bigeye,short and / or deep,27.39999962,SL
+Sillago sihama,Oriental sillago,Silver sillago,elongated,31,SL
+Pomatomus saltatrix,False trevally,Bluefish,fusiform / normal,130,TL
+Alectis ciliaris,Cobia,African pompano,short and / or deep,150,TL
+Atule mate,Yellowtail scad,Yellowtail scad,fusiform / normal,30,TL
+Alepes djedaba,Indian threadfish,Shrimp scad,fusiform / normal,40,TL
+Carangoides armatus,Longfin trevally,NA,NA,NA,NA
+Carangoides ferdau,Blue trevally,NA,NA,NA,NA
+Carangoides equula,Whitefin trevally,NA,NA,NA,NA
+Carangoides gymnostethus,Bludger,NA,NA,NA,NA
+Carangoides malabaricus,Coachwhip trevally,NA,NA,NA,NA
+Caranx heberi,Blacktip trevally,Blacktip trevally,fusiform / normal,88,TL
+Caranx ignobilis,Giant trevally,Giant trevally,fusiform / normal,170,TL
+Decapterus macarellus,Redtail scad,Mackerel scad,fusiform / normal,46,TL
+Decapterus russelli,Indian scad,Indian scad,fusiform / normal,45,TL
+Megalaspis cordyla,Torpedo scad,Torpedo scad,fusiform / normal,80,TL
+Gnathanodon speciosus,Golden trevally,Golden trevally,fusiform / normal,120,TL
+Parastromateus niger,Black pomfret,Black pomfret,short and / or deep,75,TL
+Pseudocaranx dentex,White trevally,White trevally,fusiform / normal,122,TL
+Selar crumenophthalmus,Bigeye scad,Bigeye scad,fusiform / normal,70,TL
+Scomberoides tol,Needlescaled queenfish,Needlescaled queenfish,fusiform / normal,60,TL
+Trachinotus baillonii,Blackbanded trevally,Small spotted dart,fusiform / normal,60,TL
+Trachinotus botla,Largespotted dart,Largespotted dart,fusiform / normal,75,TL
+Trachinotus blochii,Snubnose pompano,Snubnose pompano,short and / or deep,110,FL
+Uraspis secunda,Cottonmouth jack,Cottonmouth jack,fusiform / normal,50,TL
+Ulua mentalis,Longrakered trevally,NA,NA,NA,NA
+Mene maculata,Common dolphinfish,Moonfish,short and / or deep,30,TL
+Aurigequula fasciata,Striped ponyfish,Striped ponyfish,short and / or deep,21,TL
+Gazza minuta,Tooth ponyfish,Toothpony,fusiform / normal,21,FL
+Equulites leuciscus,Whipfin ponyfish,Whipfin ponyfish,fusiform / normal,25,TL
+Equulites elongatus,Slender ponyfish,Elongate ponyfish,fusiform / normal,8.100000381,SL
+Leiognathus equulus,Common ponyfish,NA,NA,NA,NA
+Leiognathus berbis,Berber ponyfish,NA,NA,NA,NA
+Secutor ruconius,Deep pugnose ponyfish,NA,NA,NA,NA
+Secutor insidiator,Pugnose ponyfish,NA,NA,NA,NA
+Aphareus furca,Green jobfish,Small toothed jobfish,fusiform / normal,70,TL
+Lutjanus argentimaculatus,Mangrove red snapper,Mangrove red snapper,fusiform / normal,150,TL
+Lutjanus fulviflamma,Blackspot snapper,Dory snapper,fusiform / normal,50,TL
+Lutjanus bengalensis,Bengal snapper,Bengal snapper,fusiform / normal,30,TL
+Lutjanus johnii,John’s snapper,John's snapper,fusiform / normal,97,TL
+Lutjanus fulvus,Blacktail snapper,Blacktail snapper,fusiform / normal,40,TL
+Lutjanus gibbus,Humpback red snapper,Humpback red snapper,fusiform / normal,56.79999924,FL
+Lutjanus russellii,Blubberlip snapper,Russell's snapper,fusiform / normal,50,TL
+Lutjanus monostigma,One–spot snapper,One-spot snapper,fusiform / normal,60,TL
+Macolor niger,Black and white snapper,Black and white snapper,fusiform / normal,75,TL
+Lutjanus sanguineus,Humphead snapper,Humphead snapper,fusiform / normal,100,TL
+Pinjalo pinjalo,Crimson jobfish,Pinjalo,fusiform / normal,80,TL
+Pristipomoides zonatus,Oblique–banded snapper,Oblique-banded snapper,fusiform / normal,57.5,FL
+Dipterygonotus balteatus,Mottled fusilier,Mottled fusilier,fusiform / normal,14,TL
+Pterocaesio chrysozona,Double–lined fusilier,Goldband fusilier,fusiform / normal,21,TL
+Gymnocaesio gymnoptera,Slender fusilier,Slender fusilier,fusiform / normal,18,TL
+Pterocaesio tile,Dark–banded fusilier,Dark-banded fusilier,fusiform / normal,30,TL
+Pterocaesio pisang,Banana fusilier,Banana fusilier,fusiform / normal,21,TL
+Gerres longirostris,Strongspine silver–biddy,Strongspine silver-biddy,fusiform / normal,44.5,TL
+Lobotes surinamensis,Tripletail,Tripletail,short and / or deep,110,TL
+Gerres oyena,Common silver–biddy,Common silver-biddy,fusiform / normal,30,TL
+Plectorhinchus flavomaculatus,Lemonfish,Lemonfish,fusiform / normal,60,TL
+Plectorhinchus gaterinus,Blackspotted rubberlip,Blackspotted rubberlip,fusiform / normal,50,TL
+Plectorhinchus chubbi,Dusky rubberlip,Dusky rubberlip,short and / or deep,75,TL
+Plectorhinchus picus,Zebra sweetlip,Painted sweetlip,fusiform / normal,84,TL
+Plectorhinchus gibbosus,Harry hotlips,Harry hotlips,short and / or deep,75,TL
+Plectorhinchus schotaf,Whitebarred rubberlip,Minstrel sweetlips,fusiform / normal,80,TL
+Pomadasys argenteus,Indian Ocean oriental sweetlips,Silver grunt,fusiform / normal,70,TL
+Plectorhinchus sordidus,Sordid rubberlip,Sordid rubberlip,fusiform / normal,60,TL
+Pomadasys kaakan,Banded grunter,Javelin grunter,fusiform / normal,80,TL
+Pomadasys commersonnii,Smallspotted grunter,Smallspotted grunter,fusiform / normal,80,TL
+Pomadasys olivaceus,Cock grunter,Olive grunt,fusiform / normal,55,TL
+Pomadasys stridens,Striped piggy,Striped piggy,fusiform / normal,20,TL
+Acanthopagrus bifasciatus,Goldsilk seabream,Twobar seabream,fusiform / normal,36.20000076,SL
+Argyrops filamentosus,Soldierbream,Soldierbream,short and / or deep,70,TL
+Cheimerius nufar,King soldier bream,Santer seabream,fusiform / normal,75,TL
+Polysteganus coeruleopunctatus,Blueskin seabream,Blueskin seabream,fusiform / normal,60,TL
+Crenidens crenidens,Karanteen seabream,Karanteen seabream,short and / or deep,30,TL
+Gnathodentex aureolineatus,Striped large–eye bream,Striped large-eye bream,fusiform / normal,42.29999924,FL
+Gymnocranius grandoculis,Blue–lined large–eye bream,Blue-lined large-eye bream,fusiform / normal,80,TL
+Lethrinus harak,Thumbprint emperor,Thumbprint emperor,fusiform / normal,54.90000153,FL
+Lethrinus lentjan,Pink ear emperor,Pink ear emperor,fusiform / normal,52,TL
+Lethrinus mahsena,Sky emperor,Sky emperor,fusiform / normal,65,TL
+Monotaxis grandoculis,Humpnose big–eye bream,Humpnose big-eye bream,fusiform / normal,60,TL
+Nemipterus japonicus,Randall’s threadfin bream,Japanese threadfin bream,fusiform / normal,34,TL
+Scolopsis frenata,Bridled monocle bream,Bridled monocle bream,fusiform / normal,26,TL
+Parascolopsis eriomma,Rosy dwarf monocle bream,Swallowtail dwarf monocle bream,fusiform / normal,35,TL
+Johnius amblycephalus,Whitecheek monocle bream,Bearded croaker,fusiform / normal,25,SL
+Scolopsis ghanam,Arabian monocle bream,Arabian monocle bream,fusiform / normal,30,TL
+Otolithes ruber,Tigertooth croacker,Tigertooth croaker,fusiform / normal,90,TL
+Mulloidichthys vanicolensis,Yellowstripe goatfish,Yellowfin goatfish,fusiform / normal,39.79999924,FL
+Parupeneus heptacanthus,Cinnabar goatfish,Cinnabar goatfish,fusiform / normal,36,TL
+Parupeneus macronemus,Long–barbel goatfish,Long-barbel goatfish,fusiform / normal,40,TL
+Parupeneus pleurostigma,Sidespot goatfish,Sidespot goatfish,fusiform / normal,33,TL
+Parupeneus indicus,Indian goatfish,Indian goatfish,fusiform / normal,45,TL
+Upeneus moluccensis,Goldband goatfish,Goldband goatfish,fusiform / normal,22.5,TL
+Parupeneus rubescens,Rosy goatfish,Rosy goatfish,fusiform / normal,43,TL
+Parupeneus trifasciatus,Doublebar goatfish,Doublebar goatfish,fusiform / normal,35,TL
+Upeneus vittatus,Freckled goatfish,Yellowstriped goatfish,fusiform / normal,28,TL
+Kyphosus cinerascens,Blue Sea chub,Blue sea chub,fusiform / normal,53,FL
+Drepane longimana,Concertina fish,Concertina fish,short and / or deep,50,TL
+Monodactylus argenteus,Silver moony,Silver moony,short and / or deep,27,SL
+Apolemichthys trimaculatus,Threespot angelfish,Threespot angelfish,short and / or deep,26,TL
+Centropyge bicolor,Bicolor angelfish,Bicolor angelfish,short and / or deep,15,TL
+Pomacanthus imperator,Emperor angelfish,Emperor angelfish,short and / or deep,40,SL
+Pomacanthus chrysurus,Goldtail angelfish,Goldtail angelfish,short and / or deep,33,SL
+Pomacanthus maculosus,Yellowbar angelfish,Yellowbar angelfish,short and / or deep,50,SL
+Pygoplites diacanthus,Regal angelfish,Regal angelfish,short and / or deep,25,SL
+Pomacanthus semicirculatus,Semicircle angelfish,Semicircle angelfish,short and / or deep,40,SL
+Cirrhitichthys oxycephalus,Stocky hawkfish,Coral hawkfish,short and / or deep,10,TL
+Paracirrhites forsteri,Blackside hawkfish,Blackside hawkfish,fusiform / normal,22,TL
+Liza macrolepis,Largescale mullet,NA,NA,NA,NA
+Liza melinoptera,Otomebora mullet,NA,NA,NA,NA
+Moolgarda seheli,Bluespot mullet,NA,NA,NA,NA
+Liza vaigiensis,Squaretail mullet,NA,NA,NA,NA
+Valamugil buchanani,Bluetail mullet,NA,NA,NA,NA
+Valamugil cunnesius,Longarm mullet,NA,NA,NA,NA
+Valamugil engeli,Kanda,NA,NA,NA,NA
+Bodianus anthioides,Lyretail hogfish,Lyretail hogfish,fusiform / normal,24,SL
+Bodianus axillaris,Axilspot hogfish,Axilspot hogfish,fusiform / normal,20,SL
+Bodianus diana,Diana’s hogfish,Diana's hogfish,fusiform / normal,16.89999962,SL
+Bodianus opercularis,Blackspot hogfish,Blackspot hogfish,fusiform / normal,18,TL
+Bodianus leucosticticus,Lined hogfish,Lined hogfish,fusiform / normal,24.20000076,SL
+Bodianus trilineatus,Fourline hogfish,Fourline hogfish,fusiform / normal,28,TL
+Cheilinus chlorourus,Redbreasted wrasse,Floral wrasse,fusiform / normal,45,TL
+Cheilio inermis,Cigar wrasse,Cigar wrasse,elongated,50,SL
+Coris caudimacula,Spottail coris,Spottail coris,fusiform / normal,20,TL
+Epibulus insidiator,Sling–jaw wrasse,Sling-jaw wrasse,short and / or deep,54,SL
+Coris formosa,Queen coris,Queen coris,fusiform / normal,60,TL
+Coris cuvieri,African coris,NA,fusiform / normal,38,TL
+Halichoeres hortulanus,Checkerboard wrasse,Checkerboard wrasse,fusiform / normal,27,TL
+Halichoeres scapularis,Bubblefin wrasse,Zigzag wrasse,fusiform / normal,20,TL
+Hologymnosus annulatus,Ring wrasse,Ring wrasse,fusiform / normal,40,TL
+Hemigymnus fasciatus,Barred thicklip,Barred thicklip,fusiform / normal,30,TL
+Labroides dimidiatus,Bluestreak cleaner wrasse,Bluestreak cleaner wrasse,elongated,14,TL
+Iniistius pentadactylus,Peacock wrasse,Fivefinger wrasse,fusiform / normal,25,TL
+Novaculichthys taeniourus,Seagrass wrasse,Rockmover wrasse,fusiform / normal,30,TL
+Oxycheilinus digramma,Cheeklined wrasse,Cheeklined wrasse,fusiform / normal,40,SL
+Stethojulis albovittata,Sideburn wrasse,Bluelined wrasse,fusiform / normal,14,TL
+Pteragogus flagellifer,Chiseltooth wrasse,Cocktail wrasse,fusiform / normal,20,TL
+Thalassoma amblycephalum,Russel’s wrasse,Bluntheaded wrasse,fusiform / normal,16,SL
+Stethojulis strigiventer,Cutribbon wrasse,Three-ribbon wrasse,fusiform / normal,15,TL
+Thalassoma lunare,Moon wrasse,Moon wrasse,fusiform / normal,45,TL
+Thalassoma hebraicum,Sixbar wrasse,Goldbar wrasse,fusiform / normal,23,TL
+Thalassoma trilobatum,Christmas wrasse,Christmas wrasse,fusiform / normal,30,TL
+Bolbometopon muricatum,Green humphead parrotfish,Green humphead parrotfish,fusiform / normal,130,TL
+Thalassoma quinquevittatum,Fivestripe wrasse,Fivestripe wrasse,fusiform / normal,17,TL
+Cetoscarus bicolor,Spinytooth parrotfish,Bicolour parrotfish,fusiform / normal,50,SL
+Calotomus carolinus,Carolines parrotfish,Carolines parrotfish,fusiform / normal,54,TL
+Chlorurus atrilunula,Bluemoon parrotfish,Bluemoon parrotfish,fusiform / normal,30,TL
+Chlorurus sordidus,Daisy parrotfish,Daisy parrotfish,fusiform / normal,40,TL
+Hipposcarus harid,Candelamoa parrotfish,Candelamoa parrotfish,fusiform / normal,75,TL
+Scarus falcipinnis,Sicklefin parrotfish,Sicklefin parrotfish,fusiform / normal,60,TL
+Scarus caudofasciatus,Redbarred parrotfish,Redbarred parrotfish,fusiform / normal,50,TL
+Leptoscarus vaigiensis,Marbled parrotfish,Marbled parrotfish,fusiform / normal,35.20000076,TL
+Scarus viridifucatus,Roundhead parrotfish,Roundhead parrotfish,fusiform / normal,45,TL
+Parapercis hexophtalma,Speckled sandperch,Speckled sandperch,elongated,29,TL
+Platax orbicularis,Orbicular batfish,Orbicular batfish,short and / or deep,60,TL
+Scatophagus tetracanthus,Scatty,Scatty,short and / or deep,30,TL
+Platax teira,Longfin batfish,Longfin batfish,short and / or deep,70,TL
+Siganus argenteus,Streamlined spinefoot,Streamlined spinefoot,fusiform / normal,40,TL
+Siganus canaliculatus,Dusky spinefoot,White-spotted spinefoot,fusiform / normal,40,TL
+Siganus stellatus,Shoemaker spinefoot,Brown-spotted spinefoot,short and / or deep,40,TL
+Acanthurus mata,Elongate surgeonfish,Elongate surgeonfish,short and / or deep,50,TL
+Acanthurus thompsoni,Thompson’s surgeonfish,Thompson's surgeonfish,short and / or deep,27,TL
+Acanthurus nigrofuscus,Brown surgeonfish,Brown surgeonfish,short and / or deep,21,TL
+Acanthurus triostegus,Convict surgeonfish,Convict surgeonfish,short and / or deep,27,TL
+Naso annulatus,Whitemargin unicornfish,Whitemargin unicornfish,fusiform / normal,100,TL
+Ctenochaetus strigosus,Striated surgeonfish,Spotted surgeonfish,short and / or deep,15,SL
+Naso brevirostris,Spotted unicornfish,Spotted unicornfish,fusiform / normal,60,TL
+Naso brachycentron,Humpback unicornfish,Humpback unicornfish,fusiform / normal,90,FL
+Naso elegans,Elegant unicornfish,Elegant unicornfish,short and / or deep,45,SL
+Naso hexacanthus,Sleek unicornfish,Sleek unicornfish,fusiform / normal,75,FL
+Naso thynnoides,Oneknife unicornfish,Oneknife unicornfish,fusiform / normal,40,FL
+Naso unicornis,Bluespine unicornfish,Bluespine unicornfish,short and / or deep,70,FL
+Paracanthurus hepatus,Twotone tang,Palette surgeonfish,short and / or deep,31,TL
+Naso vlamingii,Bignose unicornfish,Bignose unicornfish,fusiform / normal,60,TL
+Zebrasoma velifer,Sailfin tang,Sailfin tang,short and / or deep,40,SL
+Sphyraena barracuda,Great barracuda,Great barracuda,elongated,200,TL
+Lepidocybium flavobrunneum,Snake mackerel,Escolar,fusiform / normal,200,SL
+Promethichthys prometheus,Sackfish,Roudi escolar,elongated,100,SL
+Acanthocybium solandri,Wahoo,Wahoo,elongated,250,TL
+Auxis rochei,Frigate tuna,Bullet tuna,fusiform / normal,50,FL
+Rastrelliger kanagurta,Skipjack tuna,Indian mackerel,fusiform / normal,36,NA
+Gymnosarda unicolor,Dogtooth tuna,Dogtooth tuna,fusiform / normal,247.9799957,FL
+Scomberomorus commerson,Narrow–barred Spanish mackerel,Narrow-barred Spanish mackerel,fusiform / normal,240,FL
+Thunnus alalunga,Albacore,Albacore,fusiform / normal,140,FL
+Sarda orientalis,Striped bonito,Striped bonito,fusiform / normal,102,FL
+Thunnus tonggol,Bigeye tuna,Longtail tuna,fusiform / normal,144.9830017,FL
+Thunnus albacares,Yellowfin tuna,Yellowfin tuna,fusiform / normal,239,FL
+Istiophorus platypterus,Indo–Pacific sailfish,Indo-Pacific sailfish,elongated,348,FL
+Makaira indica,Black marlin,NA,NA,NA,NA
+Tetrapturus audax,Shortbill spearfish,NA,NA,NA,NA
+Cubiceps whiteleggii,Bigeye cigarfish,Shadow driftfish,fusiform / normal,21,SL
+Ariomma indicum,Indian driftfish,NA,NA,NA,NA
+Pseudorhombus arsius,Indian halibut,Largetooth flounder,short and / or deep,45,TL
+Antigonia rubescens,Indo–Pacific boarfish,Indo-Pacific boarfish,short and / or deep,15,SL
+Arnoglossus dalgleishi,Indo–Pacific oval flounder,East coast flounder,short and / or deep,20,TL
+Crossorhombus valderostratus,Pelican flounder,Broadbrow flounder,short and / or deep,14,TL
+Bothus pantherinus,Leopard flounder,Leopard flounder,short and / or deep,39,TL
+Engyprosopon grandisquama,Largescale flounder,Largescale flounder,short and / or deep,15,TL
+Pardachirus morrowi,Persian carpet sole,Persian carpet sole,short and / or deep,18,TL
+Pardachirus marmoratus,Finless sole,Finless sole,short and / or deep,26,TL
+Paraplagusia bilineata,Doublelined tonguesole,Doublelined tonguesole,short and / or deep,31.60000038,TL
+Balistapus undulatus,Starry triggerfish,Orange-lined triggerfish,short and / or deep,30,TL
+Balistoides conspicillum,Clown triggerfish,Clown triggerfish,short and / or deep,50,TL
+Balistoides viridescens,Titan triggerfish,Titan triggerfish,short and / or deep,75,TL
+Canthidermis maculata,Ocean triggerfish,Rough triggerfish,short and / or deep,50,TL
+Melichthys niger,Black triggerfish,Black triggerfish,short and / or deep,50,TL
+Odonus niger,Red–toothed triggerfish,Red-toothed triggerfish,short and / or deep,50,TL
+Melichthys vidua,Pinktail triggerfish,Pinktail triggerfish,short and / or deep,40,TL
+Pseudobalistes flavimarginatus,Yellowmargin triggerfish,Yellowmargin triggerfish,short and / or deep,60,TL
+Rhinecanthus aculeatus,Yellow–spotted triggerfish,White-banded triggerfish,short and / or deep,30,TL
+Sufflamen bursa,Boomerang triggerfish,Boomerang triggerfish,short and / or deep,25,TL
+Rhinecanthus rectangulus,Wedge–tail triggerfish,Wedge-tail triggerfish,short and / or deep,30,TL
+Sufflamen chrysopterum,Halfmoon triggerfish,Halfmoon triggerfish,short and / or deep,30,TL
+Xanthichthys lineopunctatus,Striped triggerfish,Striped triggerfish,short and / or deep,30,TL
+Sufflamen fraenatum,Masked triggerfish,Masked triggerfish,short and / or deep,38,TL
+Aluterus monoceros,Unicorn leatherjacket filefish,Unicorn leatherjacket filefish,short and / or deep,76.19999695,TL
+Amanses scopas,Broom filefish,Broom filefish,short and / or deep,20,TL
+Cantherhines dumerilii,White–spotted filefish,Whitespotted filefish,short and / or deep,38,TL
+Aluterus scriptus,Scribbled leatherjacket filefish,Scribbled leatherjacket filefish,short and / or deep,110,TL
+Oxymonacanthus longirostris,Honeycomb filefish,Harlequin filefish,short and / or deep,12,TL
+Pseudalutarius nasicornis,Rhinoceros leatherjacket,Rhinoceros leatherjacket,fusiform / normal,19,TL
+Cyclichthys orbicularis,Birdbeak burrfish,Birdbeak burrfish,short and / or deep,30,TL
+Mola mola,Ocean sunfish,Ocean sunfish,short and / or deep,333,TL
+Lophodiodon calori,Four–bar porcupinefish,Four-bar porcupinefish,short and / or deep,30,SL
