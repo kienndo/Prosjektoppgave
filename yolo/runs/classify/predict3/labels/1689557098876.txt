@@ -1,0 +1,5 @@
+0.01 bothus_pantherinus
+0.01 epinephelus_howlandi
+0.01 lutjanus_fulvus
+0.01 aphareus_furca
+0.01 coris_caudimacula
