@@ -12,4 +12,6 @@ data_images/
 __pycache__/
 yolo/dataset/
 yolo/runs/
+helpers/iNaturalist
+helpers/iNaturalist_filtered
 
