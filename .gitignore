@@ -12,4 +12,10 @@ data_images/
 __pycache__/
 yolo/dataset/
 yolo/runs/
+gpu_env/
+helpers/poppler/
+helpers/wiof_output_allpages/
+helpers/wiof_output_allpages.zip
+yolo/full_dataset/
+
 
