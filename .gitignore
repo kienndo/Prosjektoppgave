@@ -18,4 +18,6 @@ helpers/wiof_output_allpages/
 helpers/wiof_output_allpages.zip
 yolo/full_dataset/
 
+helpers/iNaturalist
+helpers/iNaturalist_filtered
 
