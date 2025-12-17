@@ -1,0 +1,568 @@
+image_file,pred_class,pred_conf,pred_x1,pred_y1,pred_x2,pred_y2,gt_species_list,pred_class_norm,gt_species_norm_list,match
+1689120590238.jpg,,,,,,,['Caranx sexfasciatus'],,['caranx sexfasciatus'],NO_DETECTION
+1689254343092.jpg,,,,,,,"['Gazza minuta', 'Upeneus vittatus']",,"['gazza minuta', 'upeneus vittatus']",NO_DETECTION
+1689254343092.jpg,,,,,,,"['Gazza minuta', 'Upeneus vittatus']",,"['gazza minuta', 'upeneus vittatus']",NO_DETECTION
+1689388044927.jpg,pomadasys_argenteus,0.770535409450531,0.0,336.0,650.0,594.0,['Caranx lugubris'],pomadasys argenteus,['caranx lugubris'],MISMATCH
+1689388044927.jpg,alectis_ciliaris,0.6540464758872986,423.0,148.0,927.0,448.0,['Caranx lugubris'],alectis ciliaris,['caranx lugubris'],MISMATCH
+1689388326411.jpg,parupeneus_indicus,0.779649555683136,437.0,53.0,736.0,705.0,['Caranx lugubris'],parupeneus indicus,['caranx lugubris'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.7518479824066162,250.0,53.0,432.0,1024.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.730954647064209,550.0,24.0,729.0,1022.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.6430563926696777,425.0,81.0,530.0,1021.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.5972406268119812,128.0,148.0,284.0,1022.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.537879228591919,100.0,83.0,263.0,1020.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.4496972858905792,54.0,60.0,141.0,1017.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.42566633224487305,514.0,0.0,591.0,980.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.36647501587867737,88.0,18.0,213.0,1012.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.3288446366786957,150.0,298.0,294.0,1023.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.32316458225250244,61.0,3.0,187.0,868.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689557098876.jpg,chirocentrus_dorab,0.2753240466117859,428.0,2.0,529.0,799.0,['Arius arius'],chirocentrus dorab,['arius arius'],MISMATCH
+1689577829534.jpg,chirocentrus_dorab,0.8757771849632263,218.0,468.0,1023.0,721.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689577829534.jpg,chirocentrus_dorab,0.7367592453956604,189.0,436.0,1011.0,660.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689577974563.jpg,chirocentrus_dorab,0.6381414532661438,0.0,211.0,1024.0,498.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689577974563.jpg,acanthocybium_solandri,0.3943086862564087,3.0,211.0,1023.0,507.0,['Scomberomorus commerson'],acanthocybium solandri,['scomberomorus commerson'],MISMATCH
+1689578011527.jpg,alectis_ciliaris,0.37311306595802307,6.0,145.0,1008.0,581.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1689578156358.jpg,,,,,,,['Caranx tille'],,['caranx tille'],NO_DETECTION
+1689594468820.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1689651076768.jpg,acanthocybium_solandri,0.38808342814445496,130.0,345.0,1019.0,592.0,['Scomberomorus commerson'],acanthocybium solandri,['scomberomorus commerson'],MISMATCH
+1689651811316.jpg,acanthocybium_solandri,0.5568789839744568,157.0,166.0,988.0,690.0,['Scomberomorus commerson'],acanthocybium solandri,['scomberomorus commerson'],MISMATCH
+1689652445419.jpg,caranx_ignobilis,0.6418056488037109,196.0,204.0,1024.0,483.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1689652491689.jpg,caranx_ignobilis,0.4271005690097809,731.0,447.0,1024.0,739.0,['Scomberomorus commerson'],caranx ignobilis,['scomberomorus commerson'],MISMATCH
+1689652491689.jpg,acanthocybium_solandri,0.3611792325973511,0.0,182.0,1010.0,479.0,['Scomberomorus commerson'],acanthocybium solandri,['scomberomorus commerson'],MISMATCH
+1689652491689.jpg,chirocentrus_dorab,0.28409647941589355,1.0,182.0,984.0,472.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689717471365.jpg,gymnocranius_grandoculis,0.3514575660228729,33.0,154.0,1016.0,643.0,['Platax boersii'],gymnocranius grandoculis,['platax boersii'],MISMATCH
+1689733035992.jpg,chirocentrus_dorab,0.828437864780426,49.0,247.0,921.0,402.0,['Acanthocybium solandri'],chirocentrus dorab,['acanthocybium solandri'],MISMATCH
+1689733035992.jpg,chirocentrus_dorab,0.6225848197937012,42.0,246.0,919.0,469.0,['Acanthocybium solandri'],chirocentrus dorab,['acanthocybium solandri'],MISMATCH
+1689739881340.jpg,chirocentrus_dorab,0.3238234519958496,149.0,375.0,1012.0,577.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689739901296.jpg,chirocentrus_dorab,0.8919427990913391,7.0,305.0,957.0,501.0,['Scomberomorus commerson'],chirocentrus dorab,['scomberomorus commerson'],MISMATCH
+1689740066618.jpg,,,,,,,['Scomberomorus commerson'],,['scomberomorus commerson'],NO_DETECTION
+1689740260887.jpg,caranx_ignobilis,0.8696238994598389,0.0,205.0,895.0,515.0,['Caranx sexfasciatus'],caranx ignobilis,['caranx sexfasciatus'],MISMATCH
+1689743257346.jpg,scomberomorus_commerson,0.7731417417526245,2.0,281.0,1023.0,521.0,['Scomberomorus commerson'],scomberomorus commerson,['scomberomorus commerson'],MATCH
+1690159389660.jpg,scomberomorus_commerson,0.3432271182537079,268.0,0.0,566.0,945.0,['Caranx tille'],scomberomorus commerson,['caranx tille'],MISMATCH
+1690159931251.jpg,scomberomorus_commerson,0.8160159587860107,330.0,132.0,504.0,762.0,['Sardinella albella'],scomberomorus commerson,['sardinella albella'],MISMATCH
+1690160029885.jpg,scomberomorus_commerson,0.47719037532806396,378.0,24.0,561.0,1020.0,['Chirocentrus dorab'],scomberomorus commerson,['chirocentrus dorab'],MISMATCH
+1690336988079.jpg,,,,,,,['Pomadasys argenteus'],,['pomadasys argenteus'],NO_DETECTION
+1690337039741.jpg,,,,,,,['Caranx sexfasciatus'],,['caranx sexfasciatus'],NO_DETECTION
+1690337115859.jpg,,,,,,,['Pomacanthus annularis'],,['pomacanthus annularis'],NO_DETECTION
+1690349481994.jpg,gazza_minuta,0.9505743980407715,471.0,458.0,730.0,559.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,aurigequula_fasciata,0.9235378503799438,429.0,554.0,844.0,737.0,"['Caranx sexfasciatus', 'Caranx melampygus']",aurigequula fasciata,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.9202073216438293,469.0,368.0,727.0,458.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.9062274098396301,500.0,197.0,751.0,280.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.8864632844924927,490.0,282.0,718.0,360.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.9505712985992432,471.0,458.0,730.0,559.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,aurigequula_fasciata,0.923403799533844,429.0,554.0,844.0,737.0,"['Caranx sexfasciatus', 'Caranx melampygus']",aurigequula fasciata,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.9202073216438293,469.0,368.0,727.0,458.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.9062274098396301,500.0,197.0,751.0,280.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690349481994.jpg,gazza_minuta,0.8865260481834412,490.0,282.0,718.0,360.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1690466885625.jpg,chirocentrus_dorab,0.6782166361808777,190.0,398.0,1015.0,636.0,['Caranx sexfasciatus'],chirocentrus dorab,['caranx sexfasciatus'],MISMATCH
+1690466885625.jpg,scomberoides_tol,0.34596705436706543,193.0,392.0,1024.0,636.0,['Caranx sexfasciatus'],scomberoides tol,['caranx sexfasciatus'],MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6269466876983643,458.0,340.0,551.0,607.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6170814037322998,379.0,344.0,463.0,542.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6011052131652832,299.0,351.0,440.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5795470476150513,931.0,383.0,1024.0,561.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5775793790817261,215.0,351.0,300.0,593.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5719438195228577,651.0,395.0,758.0,662.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5664616823196411,299.0,347.0,390.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.4470069408416748,299.0,337.0,382.0,538.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.4222056567668915,543.0,383.0,631.0,612.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.3692057728767395,725.0,357.0,800.0,420.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.30728879570961,453.0,335.0,543.0,547.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.30033981800079346,94.0,353.0,131.0,419.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.3002221882343292,94.0,360.0,154.0,515.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.2796684205532074,719.0,362.0,848.0,555.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6270405650138855,458.0,340.0,551.0,607.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6171129941940308,379.0,344.0,463.0,542.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.6010777950286865,299.0,351.0,440.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5789281129837036,931.0,383.0,1024.0,561.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5776401162147522,215.0,351.0,300.0,593.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5716229677200317,651.0,395.0,758.0,662.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.5664652585983276,299.0,347.0,390.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.4473709464073181,299.0,337.0,382.0,538.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.4221993386745453,543.0,383.0,631.0,612.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.368941992521286,725.0,357.0,800.0,420.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.3072703182697296,453.0,335.0,543.0,547.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.30033981800079346,94.0,353.0,131.0,419.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.3002626597881317,94.0,360.0,154.0,515.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690544392983.jpg,scomberoides_tol,0.2795718014240265,719.0,362.0,848.0,555.0,"['Caranx melampygus', 'Caranx sexfasciatus']",scomberoides tol,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1690598682706.jpg,parupeneus_heptacanthus,0.9293336868286133,211.0,130.0,408.0,766.0,['Lutjanus bohar'],parupeneus heptacanthus,['lutjanus bohar'],MISMATCH
+1690598682706.jpg,parupeneus_heptacanthus,0.8298081159591675,573.0,168.0,778.0,550.0,['Lutjanus bohar'],parupeneus heptacanthus,['lutjanus bohar'],MISMATCH
+1690598682706.jpg,parupeneus_heptacanthus,0.8096269369125366,384.0,156.0,605.0,764.0,['Lutjanus bohar'],parupeneus heptacanthus,['lutjanus bohar'],MISMATCH
+1690599089156.jpg,,,,,,,"['Lutjanus gibbus', 'Lutjanus bohar']",,"['lutjanus gibbus', 'lutjanus bohar']",NO_DETECTION
+1690599089156.jpg,,,,,,,"['Lutjanus gibbus', 'Lutjanus bohar']",,"['lutjanus gibbus', 'lutjanus bohar']",NO_DETECTION
+1690861067104.jpg,scomberomorus_commerson,0.8160184025764465,329.0,132.0,504.0,765.0,['Sardinella albella'],scomberomorus commerson,['sardinella albella'],MISMATCH
+1690861294149.jpg,scomberomorus_commerson,0.8159448504447937,329.0,132.0,504.0,765.0,['Sardinella albella'],scomberomorus commerson,['sardinella albella'],MISMATCH
+1690861524786.jpg,chirocentrus_dorab,0.7840149402618408,207.0,129.0,388.0,1010.0,['Chirocentrus nudus'],chirocentrus dorab,['chirocentrus nudus'],MISMATCH
+1690861524786.jpg,chirocentrus_dorab,0.5365585684776306,347.0,75.0,565.0,1015.0,['Chirocentrus nudus'],chirocentrus dorab,['chirocentrus nudus'],MISMATCH
+1690861984401.jpg,scomberomorus_commerson,0.8159448504447937,329.0,132.0,504.0,765.0,['Sardinella albella'],scomberomorus commerson,['sardinella albella'],MISMATCH
+1690862494432.jpg,scomberomorus_commerson,0.8159448504447937,329.0,132.0,504.0,765.0,['Sardinella albella'],scomberomorus commerson,['sardinella albella'],MISMATCH
+1690890877921.jpg,,,,,,,"['Lutjanus fulviflamma', 'Lutjanus russellii', 'Lutjanus timoriensis']",,"['lutjanus fulviflamma', 'lutjanus russellii', 'lutjanus timoriensis']",NO_DETECTION
+1690890877921.jpg,,,,,,,"['Lutjanus fulviflamma', 'Lutjanus russellii', 'Lutjanus timoriensis']",,"['lutjanus fulviflamma', 'lutjanus russellii', 'lutjanus timoriensis']",NO_DETECTION
+1691143949361.jpg,aurigequula_fasciata,0.8243202567100525,245.0,229.0,1005.0,632.0,['Caranx lugubris'],aurigequula fasciata,['caranx lugubris'],MISMATCH
+1691197797009.jpg,gazza_minuta,0.942401111125946,470.0,447.0,731.0,549.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.9298387169837952,470.0,357.0,729.0,447.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.9044391512870789,492.0,267.0,679.0,351.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,aurigequula_fasciata,0.9035421013832092,424.0,543.0,843.0,736.0,"['Caranx sexfasciatus', 'Caranx melampygus']",aurigequula fasciata,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.880042552947998,502.0,182.0,756.0,265.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.9423999190330505,470.0,447.0,731.0,549.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.9298387169837952,470.0,357.0,729.0,447.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.9043075442314148,492.0,267.0,679.0,351.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,aurigequula_fasciata,0.9035017490386963,424.0,543.0,843.0,736.0,"['Caranx sexfasciatus', 'Caranx melampygus']",aurigequula fasciata,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691197797009.jpg,gazza_minuta,0.8800836801528931,502.0,182.0,756.0,265.0,"['Caranx sexfasciatus', 'Caranx melampygus']",gazza minuta,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1691201300294.jpg,,,,,,,['Lethrinus erythracanthus'],,['lethrinus erythracanthus'],NO_DETECTION
+1691201510682.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1691201635655.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1691201728522.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1691234458029.jpg,lutjanus_johnii,0.36745980381965637,879.0,0.0,1024.0,419.0,['Elagatis bipinnulata'],lutjanus johnii,['elagatis bipinnulata'],MISMATCH
+1691235083249.jpg,,,,,,,['Caranx sexfasciatus'],,['caranx sexfasciatus'],NO_DETECTION
+1691235144639.jpg,scomberomorus_commerson,0.3868855834007263,188.0,370.0,449.0,1002.0,['Elagatis bipinnulata'],scomberomorus commerson,['elagatis bipinnulata'],MISMATCH
+1691235144639.jpg,scomberomorus_commerson,0.30822786688804626,280.0,283.0,448.0,997.0,['Elagatis bipinnulata'],scomberomorus commerson,['elagatis bipinnulata'],MISMATCH
+1691235476798.jpg,,,,,,,['Elagatis bipinnulata'],,['elagatis bipinnulata'],NO_DETECTION
+1691235509689.jpg,pomadasys_kaakan,0.3660486936569214,200.0,222.0,422.0,934.0,['Caranx sexfasciatus'],pomadasys kaakan,['caranx sexfasciatus'],MISMATCH
+1691235988859.jpg,,,,,,,['Elagatis bipinnulata'],,['elagatis bipinnulata'],NO_DETECTION
+1691236115459.jpg,,,,,,,['Elagatis bipinnulata'],,['elagatis bipinnulata'],NO_DETECTION
+1691557514958.jpg,lutjanus_johnii,0.36499524116516113,102.0,93.0,344.0,960.0,['Rastrelliger kanagurta'],lutjanus johnii,['rastrelliger kanagurta'],MISMATCH
+1691557514958.jpg,parupeneus_indicus,0.35651251673698425,95.0,147.0,351.0,960.0,['Rastrelliger kanagurta'],parupeneus indicus,['rastrelliger kanagurta'],MISMATCH
+1691558833083.jpg,lutjanus_johnii,0.36533769965171814,102.0,93.0,344.0,960.0,['Rastrelliger kanagurta'],lutjanus johnii,['rastrelliger kanagurta'],MISMATCH
+1691558833083.jpg,parupeneus_indicus,0.35643547773361206,95.0,147.0,351.0,960.0,['Rastrelliger kanagurta'],parupeneus indicus,['rastrelliger kanagurta'],MISMATCH
+1691559743804.jpg,lutjanus_johnii,0.36499524116516113,102.0,93.0,344.0,960.0,['Rastrelliger kanagurta'],lutjanus johnii,['rastrelliger kanagurta'],MISMATCH
+1691559743804.jpg,parupeneus_indicus,0.35651251673698425,95.0,147.0,351.0,960.0,['Rastrelliger kanagurta'],parupeneus indicus,['rastrelliger kanagurta'],MISMATCH
+1692068562217.jpg,aurigequula_fasciata,0.5253814458847046,281.0,186.0,1023.0,485.0,['Caranx tille'],aurigequula fasciata,['caranx tille'],MISMATCH
+1692330985857.jpg,gazza_minuta,0.39842313528060913,15.0,220.0,570.0,435.0,"['Caranx sexfasciatus', 'Pomadasys kaakan']",gazza minuta,"['caranx sexfasciatus', 'pomadasys kaakan']",MISMATCH
+1692330985857.jpg,gazza_minuta,0.39866021275520325,15.0,220.0,570.0,435.0,"['Caranx sexfasciatus', 'Pomadasys kaakan']",gazza minuta,"['caranx sexfasciatus', 'pomadasys kaakan']",MISMATCH
+1692413225981.jpg,pomadasys_kaakan,0.7591336965560913,710.0,31.0,950.0,748.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1692413225981.jpg,pomadasys_kaakan,0.6846948862075806,238.0,0.0,491.0,729.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1692413225981.jpg,pomadasys_kaakan,0.39661166071891785,490.0,10.0,712.0,762.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1692413842219.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1692414093710.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1692414486273.jpg,parupeneus_heptacanthus,0.46355119347572327,721.0,229.0,841.0,626.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1692414486273.jpg,parupeneus_indicus,0.2853717505931854,150.0,127.0,261.0,543.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1692581137223.jpg,,,,,,,['Caranx sexfasciatus'],,['caranx sexfasciatus'],NO_DETECTION
+1692581157271.jpg,pomadasys_kaakan,0.38914114236831665,137.0,167.0,1024.0,575.0,['Caranx sexfasciatus'],pomadasys kaakan,['caranx sexfasciatus'],MISMATCH
+1692758040681.jpg,scomberoides_tol,0.4101364314556122,470.0,236.0,672.0,406.0,['Caranx tille'],scomberoides tol,['caranx tille'],MISMATCH
+1692758040681.jpg,scomberoides_tol,0.38133004307746887,481.0,144.0,728.0,314.0,['Caranx tille'],scomberoides tol,['caranx tille'],MISMATCH
+1692758040681.jpg,scomberoides_tol,0.28794991970062256,481.0,143.0,795.0,403.0,['Caranx tille'],scomberoides tol,['caranx tille'],MISMATCH
+1692758040681.jpg,scomberoides_tol,0.2749936580657959,29.0,141.0,419.0,405.0,['Caranx tille'],scomberoides tol,['caranx tille'],MISMATCH
+1693045597639.jpg,parupeneus_indicus,0.8902587294578552,323.0,7.0,557.0,656.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693045597639.jpg,parupeneus_indicus,0.6620206236839294,554.0,17.0,779.0,657.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693045597639.jpg,parupeneus_indicus,0.5936511754989624,138.0,9.0,347.0,659.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693045767461.jpg,sardinella_albella,0.6229052543640137,367.0,26.0,1022.0,265.0,['Decapterus macarellus'],sardinella albella,['decapterus macarellus'],MISMATCH
+1693045767461.jpg,aurigequula_fasciata,0.4336090385913849,353.0,418.0,1011.0,667.0,['Decapterus macarellus'],aurigequula fasciata,['decapterus macarellus'],MISMATCH
+1693045767461.jpg,scomberoides_tol,0.298966646194458,346.0,453.0,999.0,666.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,scomberomorus_commerson,0.8931658267974854,645.0,2.0,816.0,759.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,scomberomorus_commerson,0.7127858400344849,377.0,17.0,559.0,758.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,acanthocybium_solandri,0.47436219453811646,91.0,0.0,270.0,617.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,acanthocybium_solandri,0.45989418029785156,273.0,6.0,471.0,751.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,scomberomorus_commerson,0.3167901933193207,281.0,9.0,478.0,749.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693045954991.jpg,acanthocybium_solandri,0.27229931950569153,167.0,2.0,417.0,673.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693046054194.jpg,caranx_ignobilis,0.8758847713470459,322.0,6.0,539.0,519.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046054194.jpg,caranx_ignobilis,0.875883162021637,322.0,6.0,539.0,519.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046250037.jpg,caranx_ignobilis,0.5841143131256104,251.0,0.0,418.0,609.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046250037.jpg,caranx_ignobilis,0.4396291673183441,61.0,0.0,270.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046250037.jpg,caranx_ignobilis,0.5840342044830322,251.0,0.0,418.0,609.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046250037.jpg,caranx_ignobilis,0.4394938349723816,61.0,0.0,270.0,598.0,"['Caranx melampygus', 'Caranx sexfasciatus']",caranx ignobilis,"['caranx melampygus', 'caranx sexfasciatus']",MISMATCH
+1693046392880.jpg,,,,,,,['Lethrinus erythracanthus'],,['lethrinus erythracanthus'],NO_DETECTION
+1693046470745.jpg,parupeneus_indicus,0.890146017074585,323.0,7.0,557.0,656.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693046470745.jpg,parupeneus_indicus,0.6620323657989502,554.0,17.0,779.0,657.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693046470745.jpg,parupeneus_indicus,0.5937955975532532,138.0,9.0,347.0,659.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693046578401.jpg,acanthocybium_solandri,0.7497630715370178,310.0,0.0,490.0,725.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693046578401.jpg,acanthocybium_solandri,0.6795787811279297,213.0,0.0,375.0,697.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693046578401.jpg,acanthocybium_solandri,0.5265427231788635,574.0,7.0,753.0,731.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693046578401.jpg,acanthocybium_solandri,0.509468138217926,226.0,0.0,489.0,713.0,['Decapterus macarellus'],acanthocybium solandri,['decapterus macarellus'],MISMATCH
+1693046578401.jpg,scomberomorus_commerson,0.45913320779800415,574.0,0.0,757.0,726.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693046853848.jpg,parupeneus_heptacanthus,0.46355119347572327,721.0,229.0,841.0,626.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1693046853848.jpg,parupeneus_indicus,0.2853717505931854,150.0,127.0,261.0,543.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1693362996059.jpg,alectis_ciliaris,0.34568527340888977,61.0,189.0,816.0,470.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1693363143543.jpg,alectis_ciliaris,0.7939821481704712,176.0,253.0,979.0,525.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1693363143543.jpg,caranx_ignobilis,0.25040584802627563,938.0,56.0,1024.0,204.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1693363266446.jpg,aurigequula_fasciata,0.8694308400154114,104.0,189.0,1024.0,483.0,['Caranx tille'],aurigequula fasciata,['caranx tille'],MISMATCH
+1693363286236.jpg,gymnocranius_grandoculis,0.29341763257980347,177.0,126.0,781.0,298.0,['Caranx tille'],gymnocranius grandoculis,['caranx tille'],MISMATCH
+1693380316797.jpg,,,,,,,['Caranx tille'],,['caranx tille'],NO_DETECTION
+1693380335318.jpg,aurigequula_fasciata,0.8694345355033875,104.0,189.0,1024.0,483.0,['Caranx tille'],aurigequula fasciata,['caranx tille'],MISMATCH
+1693444829209.jpg,scomberoides_tol,0.3161601424217224,206.0,159.0,938.0,371.0,['Caranx tille'],scomberoides tol,['caranx tille'],MISMATCH
+1693444852155.jpg,caranx_ignobilis,0.6908828020095825,124.0,164.0,1024.0,449.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1693444866750.jpg,caranx_ignobilis,0.9261632561683655,160.0,111.0,985.0,437.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1693444885638.jpg,,,,,,,['Scomberomorus commerson'],,['scomberomorus commerson'],NO_DETECTION
+1693450035269.jpg,alectis_ciliaris,0.9285708665847778,240.0,133.0,955.0,436.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1693450405580.jpg,alectis_ciliaris,0.7575836181640625,97.0,206.0,976.0,479.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1693450516450.jpg,alectis_ciliaris,0.40254369378089905,265.0,188.0,925.0,436.0,['Caranx tille'],alectis ciliaris,['caranx tille'],MISMATCH
+1693450624018.jpg,scomberomorus_commerson,0.28645971417427063,123.0,197.0,718.0,406.0,['Caranx sexfasciatus'],scomberomorus commerson,['caranx sexfasciatus'],MISMATCH
+1693535715149.jpg,alectis_ciliaris,0.8819897174835205,161.0,217.0,1008.0,508.0,['Caranx sexfasciatus'],alectis ciliaris,['caranx sexfasciatus'],MISMATCH
+1693546581340.jpg,caranx_ignobilis,0.877734363079071,0.0,0.0,292.0,345.0,['Caranx melampygus'],caranx ignobilis,['caranx melampygus'],MISMATCH
+1693546581340.jpg,alectis_ciliaris,0.35223549604415894,277.0,187.0,912.0,545.0,['Caranx melampygus'],alectis ciliaris,['caranx melampygus'],MISMATCH
+1693546643536.jpg,chirocentrus_dorab,0.6634916067123413,93.0,165.0,1009.0,510.0,['Etelis carbunculus'],chirocentrus dorab,['etelis carbunculus'],MISMATCH
+1693546778635.jpg,,,,,,,['Seriola dumerili'],,['seriola dumerili'],NO_DETECTION
+1693549640994.jpg,aurigequula_fasciata,0.9251658320426941,119.0,122.0,930.0,460.0,['Caranx melampygus'],aurigequula fasciata,['caranx melampygus'],MISMATCH
+1693623926007.jpg,chirocentrus_dorab,0.7091741561889648,281.0,470.0,887.0,604.0,['Decapterus macrosoma'],chirocentrus dorab,['decapterus macrosoma'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.944337785243988,745.0,11.0,1019.0,767.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.7951035499572754,339.0,6.0,495.0,750.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.7404525279998779,205.0,0.0,365.0,721.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.7230677008628845,91.0,0.0,208.0,698.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.7046015858650208,602.0,0.0,818.0,764.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652276403.jpg,scomberomorus_commerson,0.617177426815033,471.0,4.0,628.0,768.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1693652905382.jpg,chirocentrus_dorab,0.7091741561889648,281.0,470.0,887.0,604.0,['Decapterus macrosoma'],chirocentrus dorab,['decapterus macrosoma'],MISMATCH
+1693910106073.jpg,,,,,,,['Pseudobalistes flavimarginatus'],,['pseudobalistes flavimarginatus'],NO_DETECTION
+1694346646225.jpg,acanthocybium_solandri,0.5826717019081116,211.0,56.0,497.0,1015.0,['Caranx sexfasciatus'],acanthocybium solandri,['caranx sexfasciatus'],MISMATCH
+1694346646225.jpg,scomberomorus_commerson,0.5670735836029053,262.0,78.0,491.0,1005.0,['Caranx sexfasciatus'],scomberomorus commerson,['caranx sexfasciatus'],MISMATCH
+1694346646225.jpg,scomberomorus_commerson,0.42102867364883423,158.0,78.0,493.0,1009.0,['Caranx sexfasciatus'],scomberomorus commerson,['caranx sexfasciatus'],MISMATCH
+1694483777242.jpg,,,,,,,"['Sargocentron sp.', 'Lethrinus ornatus', 'Scolopsis vosmeri']",,"['sargocentron sp.', 'lethrinus ornatus', 'scolopsis vosmeri']",NO_DETECTION
+1694483777242.jpg,,,,,,,"['Sargocentron sp.', 'Lethrinus ornatus', 'Scolopsis vosmeri']",,"['sargocentron sp.', 'lethrinus ornatus', 'scolopsis vosmeri']",NO_DETECTION
+1694518497934.jpg,,,,,,,['Psettodes erumei'],,['psettodes erumei'],NO_DETECTION
+1694525455257.jpg,decapterus_macarellus,0.5758272409439087,480.0,152.0,866.0,236.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.519184947013855,123.0,54.0,547.0,154.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.4705617427825928,471.0,254.0,861.0,328.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.4541544020175934,157.0,565.0,826.0,688.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.4347474277019501,158.0,581.0,825.0,729.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.42990052700042725,479.0,476.0,833.0,553.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.36253470182418823,136.0,156.0,552.0,237.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.29695817828178406,161.0,494.0,551.0,569.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.26862043142318726,159.0,615.0,823.0,715.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.2558841407299042,142.0,186.0,552.0,287.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694525455257.jpg,decapterus_macarellus,0.2552943527698517,142.0,354.0,517.0,440.0,['Amblygaster sirm'],decapterus macarellus,['amblygaster sirm'],MISMATCH
+1694865793188.jpg,variola_albimarginata,0.35012662410736084,90.0,227.0,1024.0,571.0,['Lutjanus bohar'],variola albimarginata,['lutjanus bohar'],MISMATCH
+1694867305294.jpg,scomberomorus_commerson,0.773222029209137,1438.0,637.0,1816.0,2443.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1694867312901.jpg,scomberomorus_commerson,0.7217358946800232,451.0,199.0,570.0,766.0,['Decapterus macarellus'],scomberomorus commerson,['decapterus macarellus'],MISMATCH
+1695258652931.jpg,caranx_ignobilis,0.906495988368988,173.0,114.0,999.0,417.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1695258772293.jpg,,,,,,,['Caranx sexfasciatus'],,['caranx sexfasciatus'],NO_DETECTION
+1695263010071.jpg,caranx_ignobilis,0.37463831901550293,192.0,151.0,978.0,390.0,['Caranx tille'],caranx ignobilis,['caranx tille'],MISMATCH
+1695267680911.jpg,,,,,,,['Caranx melampygus'],,['caranx melampygus'],NO_DETECTION
+1695388917511.jpg,,,,,,,['Katsuwonus pelamis'],,['katsuwonus pelamis'],NO_DETECTION
+1695389182703.jpg,alectis_ciliaris,0.7560197710990906,0.0,813.0,575.0,1023.0,['Katsuwonus pelamis'],alectis ciliaris,['katsuwonus pelamis'],MISMATCH
+1695389182703.jpg,chirocentrus_dorab,0.4607590138912201,326.0,178.0,449.0,729.0,['Katsuwonus pelamis'],chirocentrus dorab,['katsuwonus pelamis'],MISMATCH
+1695389182703.jpg,chirocentrus_dorab,0.32001370191574097,186.0,110.0,304.0,793.0,['Katsuwonus pelamis'],chirocentrus dorab,['katsuwonus pelamis'],MISMATCH
+1695389182703.jpg,rastrelliger_kanagurta,0.308020681142807,329.0,182.0,451.0,725.0,['Katsuwonus pelamis'],rastrelliger kanagurta,['katsuwonus pelamis'],MISMATCH
+1695389254664.jpg,alectis_ciliaris,0.7562461495399475,0.0,813.0,575.0,1023.0,['Katsuwonus pelamis'],alectis ciliaris,['katsuwonus pelamis'],MISMATCH
+1695389254664.jpg,chirocentrus_dorab,0.4609023332595825,326.0,178.0,449.0,729.0,['Katsuwonus pelamis'],chirocentrus dorab,['katsuwonus pelamis'],MISMATCH
+1695389254664.jpg,chirocentrus_dorab,0.32000401616096497,186.0,110.0,304.0,793.0,['Katsuwonus pelamis'],chirocentrus dorab,['katsuwonus pelamis'],MISMATCH
+1695389254664.jpg,rastrelliger_kanagurta,0.3080078661441803,329.0,182.0,451.0,725.0,['Katsuwonus pelamis'],rastrelliger kanagurta,['katsuwonus pelamis'],MISMATCH
+1695389712651.jpg,,,,,,,['Elagatis bipinnulata'],,['elagatis bipinnulata'],NO_DETECTION
+1695389756695.jpg,,,,,,,"['Elagatis bipinnulata', 'Variola albimarginata']",,"['elagatis bipinnulata', 'variola albimarginata']",NO_DETECTION
+1695389756695.jpg,,,,,,,"['Elagatis bipinnulata', 'Variola albimarginata']",,"['elagatis bipinnulata', 'variola albimarginata']",NO_DETECTION
+1695390143732.jpg,,,,,,,['Katsuwonus pelamis'],,['katsuwonus pelamis'],NO_DETECTION
+1695390161790.jpg,,,,,,,['Katsuwonus pelamis'],,['katsuwonus pelamis'],NO_DETECTION
+1695390184818.jpg,,,,,,,['Katsuwonus pelamis'],,['katsuwonus pelamis'],NO_DETECTION
+1695511150791.jpg,lujanus_gibbus,0.8482074737548828,371.0,606.0,647.0,705.0,['Caranx melampygus'],lujanus gibbus,['caranx melampygus'],MISMATCH
+1695511150791.jpg,lujanus_gibbus,0.7527110576629639,365.0,181.0,674.0,300.0,['Caranx melampygus'],lujanus gibbus,['caranx melampygus'],MISMATCH
+1695511150791.jpg,lujanus_gibbus,0.5634030699729919,378.0,527.0,646.0,612.0,['Caranx melampygus'],lujanus gibbus,['caranx melampygus'],MISMATCH
+1695511150791.jpg,lujanus_gibbus,0.5250192284584045,324.0,8.0,702.0,207.0,['Caranx melampygus'],lujanus gibbus,['caranx melampygus'],MISMATCH
+1695511150791.jpg,gazza_minuta,0.27404114603996277,373.0,606.0,646.0,702.0,['Caranx melampygus'],gazza minuta,['caranx melampygus'],MISMATCH
+1695511964208.jpg,,,,,,,['Caranx melampygus'],,['caranx melampygus'],NO_DETECTION
+1695515249310.jpg,pomadasys_argenteus,0.8288478255271912,463.0,495.0,856.0,654.0,"['Epinephelus maculatus', 'Lethrinus ornatus', 'Lutjanus rufolineatus']",pomadasys argenteus,"['epinephelus maculatus', 'lethrinus ornatus', 'lutjanus rufolineatus']",MISMATCH
+1695515249310.jpg,pomadasys_argenteus,0.8288456201553345,463.0,495.0,856.0,654.0,"['Epinephelus maculatus', 'Lethrinus ornatus', 'Lutjanus rufolineatus']",pomadasys argenteus,"['epinephelus maculatus', 'lethrinus ornatus', 'lutjanus rufolineatus']",MISMATCH
+1695515249310.jpg,pomadasys_argenteus,0.8288376927375793,463.0,495.0,856.0,654.0,"['Epinephelus maculatus', 'Lethrinus ornatus', 'Lutjanus rufolineatus']",pomadasys argenteus,"['epinephelus maculatus', 'lethrinus ornatus', 'lutjanus rufolineatus']",MISMATCH
+1695515493186.jpg,pomadasys_argenteus,0.915518045425415,336.0,124.0,935.0,311.0,['Pomadasys argenteus'],pomadasys argenteus,['pomadasys argenteus'],MATCH
+1695515493186.jpg,pomadasys_argenteus,0.8554372191429138,255.0,279.0,1022.0,543.0,['Pomadasys argenteus'],pomadasys argenteus,['pomadasys argenteus'],MATCH
+1695515552621.jpg,pomadasys_argenteus,0.9155901074409485,336.0,124.0,935.0,311.0,['Pomadasys argenteus'],pomadasys argenteus,['pomadasys argenteus'],MATCH
+1695515552621.jpg,pomadasys_argenteus,0.8555386066436768,255.0,279.0,1022.0,543.0,['Pomadasys argenteus'],pomadasys argenteus,['pomadasys argenteus'],MATCH
+1695521758525.jpg,scomberoides_tol,0.4029580056667328,366.0,551.0,622.0,630.0,['Caranx melampygus'],scomberoides tol,['caranx melampygus'],MISMATCH
+1695521758525.jpg,gazza_minuta,0.3743429481983185,354.0,469.0,594.0,559.0,['Caranx melampygus'],gazza minuta,['caranx melampygus'],MISMATCH
+1695521758525.jpg,gazza_minuta,0.32299813628196716,346.0,180.0,689.0,313.0,['Caranx melampygus'],gazza minuta,['caranx melampygus'],MISMATCH
+1695521758525.jpg,lutjanus_fulviflamma,0.267206072807312,0.0,244.0,80.0,501.0,['Caranx melampygus'],lutjanus fulviflamma,['caranx melampygus'],MISMATCH
+1695691830697.jpg,lutjanus_johnii,0.8971374034881592,256.0,454.0,735.0,695.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1695691830697.jpg,lutjanus_johnii,0.8045513033866882,180.0,586.0,614.0,768.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1695691830697.jpg,lutjanus_johnii,0.6790087223052979,297.0,373.0,837.0,576.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1695713427558.jpg,lutjanus_johnii,0.4965546727180481,252.0,331.0,858.0,563.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1695713427558.jpg,lujanus_gibbus,0.4959038197994232,300.0,176.0,979.0,410.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1695734103683.jpg,lutjanus_russellii,0.5510526299476624,15.0,313.0,997.0,634.0,['Priacanthus sagittarius'],lutjanus russellii,['priacanthus sagittarius'],MISMATCH
+1695734455651.jpg,mulloidichtys_vanicolensis,0.277138888835907,340.0,219.0,824.0,417.0,['Lutjanus kasmira'],mulloidichtys vanicolensis,['lutjanus kasmira'],MISMATCH
+1695734906095.jpg,,,,,,,['Acanthocybium solandri'],,['acanthocybium solandri'],NO_DETECTION
+1695735175273.jpg,,,,,,,['Acanthocybium solandri'],,['acanthocybium solandri'],NO_DETECTION
+1695735361459.jpg,lutjanus_johnii,0.33998146653175354,177.0,278.0,296.0,462.0,['Lutjanus kasmira'],lutjanus johnii,['lutjanus kasmira'],MISMATCH
+1695735670368.jpg,chirocentrus_dorab,0.5451655983924866,0.0,527.0,399.0,704.0,"['Elagatis bipinnulata', 'Acanthocybium solandri']",chirocentrus dorab,"['elagatis bipinnulata', 'acanthocybium solandri']",MISMATCH
+1695735670368.jpg,decapterus_macarellus,0.29397332668304443,608.0,631.0,1022.0,754.0,"['Elagatis bipinnulata', 'Acanthocybium solandri']",decapterus macarellus,"['elagatis bipinnulata', 'acanthocybium solandri']",MISMATCH
+1695735670368.jpg,chirocentrus_dorab,0.5449967384338379,0.0,527.0,399.0,704.0,"['Elagatis bipinnulata', 'Acanthocybium solandri']",chirocentrus dorab,"['elagatis bipinnulata', 'acanthocybium solandri']",MISMATCH
+1695735670368.jpg,decapterus_macarellus,0.293965220451355,608.0,631.0,1022.0,754.0,"['Elagatis bipinnulata', 'Acanthocybium solandri']",decapterus macarellus,"['elagatis bipinnulata', 'acanthocybium solandri']",MISMATCH
+1696333279652.jpg,parupeneus_heptacanthus,0.8900865316390991,718.0,305.0,952.0,736.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1696333279652.jpg,parupeneus_heptacanthus,0.8665174245834351,421.0,158.0,631.0,768.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1696333279652.jpg,parupeneus_heptacanthus,0.49911952018737793,231.0,162.0,432.0,579.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1696335870241.jpg,scomberomorus_commerson,0.43719708919525146,295.0,108.0,583.0,893.0,['Lutjanus rivulatus'],scomberomorus commerson,['lutjanus rivulatus'],MISMATCH
+1696335870241.jpg,pomadasys_argenteus,0.3560693860054016,296.0,107.0,586.0,907.0,['Lutjanus rivulatus'],pomadasys argenteus,['lutjanus rivulatus'],MISMATCH
+1696335870241.jpg,pomadasys_kaakan,0.33656972646713257,295.0,123.0,584.0,890.0,['Lutjanus rivulatus'],pomadasys kaakan,['lutjanus rivulatus'],MISMATCH
+1696496895174.jpg,pomadasys_argenteus,0.9087061285972595,500.0,88.0,699.0,681.0,['Lutjanus gibbus'],pomadasys argenteus,['lutjanus gibbus'],MISMATCH
+1696677986326.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696677986326.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696677986326.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696677986326.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696677986326.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696900347498.jpg,gymnocranius_grandoculis,0.8907687664031982,28.0,274.0,989.0,669.0,['Priacanthus sagittarius'],gymnocranius grandoculis,['priacanthus sagittarius'],MISMATCH
+1696945542849.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1696946750249.jpg,gymnocranius_grandoculis,0.4507531523704529,51.0,59.0,1015.0,444.0,['Lutjanus gibbus'],gymnocranius grandoculis,['lutjanus gibbus'],MISMATCH
+1696946750249.jpg,lethrinus_mahsena,0.3071584701538086,37.0,60.0,1017.0,444.0,['Lutjanus gibbus'],lethrinus mahsena,['lutjanus gibbus'],MISMATCH
+1696947493558.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696947493558.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696947493558.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696947493558.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1696947493558.jpg,,,,,,,"['Plectorhinchus vittatus', 'Monotaxis grandoculis', 'Lutjanus gibbus', 'Lutjanus bohar', 'Scarus quoyi']",,"['plectorhinchus vittatus', 'monotaxis grandoculis', 'lutjanus gibbus', 'lutjanus bohar', 'scarus quoyi']",NO_DETECTION
+1697005652932.jpg,caranx_ignobilis,0.4215208888053894,424.0,362.0,909.0,575.0,['Lutjanus gibbus'],caranx ignobilis,['lutjanus gibbus'],MISMATCH
+1697005652932.jpg,lujanus_gibbus,0.299929141998291,427.0,271.0,502.0,404.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697012766699.jpg,parupeneus_heptacanthus,0.6997299194335938,225.0,106.0,547.0,1024.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1697114382541.jpg,aurigequula_fasciata,0.343950480222702,412.0,188.0,1024.0,454.0,['Caranx melampygus'],aurigequula fasciata,['caranx melampygus'],MISMATCH
+1697114451439.jpg,lujanus_gibbus,0.4994368255138397,390.0,144.0,848.0,302.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697114451439.jpg,lujanus_gibbus,0.40734100341796875,388.0,294.0,915.0,436.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697114451439.jpg,lujanus_gibbus,0.2621462643146515,410.0,422.0,902.0,563.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697114533401.jpg,lujanus_gibbus,0.5345209240913391,298.0,235.0,1024.0,524.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.9048431515693665,1216.0,1765.0,1894.0,2034.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.7317165732383728,1853.0,1839.0,2404.0,2089.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.7091404795646667,1172.0,1528.0,1818.0,1770.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.6610462665557861,399.0,1099.0,823.0,1489.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.5539548993110657,525.0,433.0,1037.0,721.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.543832004070282,420.0,928.0,984.0,1149.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.5307222604751587,730.0,1274.0,1278.0,1488.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.47322404384613037,514.0,299.0,1143.0,525.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.4709537923336029,237.0,1568.0,880.0,2009.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_fulvus,0.40923255681991577,1751.0,1593.0,2446.0,1862.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_johnii,0.3147134780883789,2448.0,344.0,3225.0,659.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115180424.jpg,lutjanus_johnii,0.2729352116584778,515.0,303.0,1145.0,525.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.8882042765617371,376.0,552.0,594.0,638.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.7215551137924194,368.0,480.0,573.0,555.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.713564395904541,576.0,577.0,754.0,654.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.5810584425926208,124.0,344.0,257.0,466.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.5375912189483643,228.0,399.0,401.0,467.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,upeneus_vittatus,0.5266149640083313,553.0,276.0,765.0,356.0,['Lutjanus gibbus'],upeneus vittatus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.5138159394264221,133.0,291.0,308.0,361.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.4001210629940033,73.0,490.0,278.0,632.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.39796769618988037,161.0,94.0,358.0,165.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.39753472805023193,164.0,135.0,327.0,226.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.3382527828216553,549.0,500.0,763.0,584.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_johnii,0.3356846570968628,161.0,95.0,359.0,165.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.27119457721710205,349.0,380.0,587.0,475.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_johnii,0.2587801218032837,767.0,108.0,1010.0,206.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115186816.jpg,lutjanus_fulvus,0.2587023973464966,134.0,218.0,296.0,284.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.8849205374717712,638.0,592.0,883.0,683.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.8640583753585815,401.0,574.0,671.0,666.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.7988271117210388,376.0,378.0,656.0,490.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.7363696098327637,82.0,321.0,265.0,478.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.7272785902023315,87.0,258.0,319.0,343.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.6723101139068604,50.0,506.0,284.0,659.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.6528671979904175,239.0,544.0,420.0,623.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_johnii,0.48885196447372437,135.0,51.0,343.0,170.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_johnii,0.48270678520202637,148.0,2.0,542.0,95.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.4668494164943695,101.0,167.0,316.0,255.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.4633851647377014,604.0,354.0,903.0,440.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lujanus_gibbus,0.3204328417778015,600.0,355.0,897.0,440.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.3032834231853485,600.0,441.0,864.0,518.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_johnii,0.297481507062912,341.0,158.0,512.0,233.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.2851784825325012,134.0,54.0,343.0,169.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.27858421206474304,263.0,473.0,394.0,555.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_fulvus,0.2696625888347626,216.0,393.0,434.0,471.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115495415.jpg,lutjanus_johnii,0.2528965175151825,296.0,81.0,538.0,154.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.8603707551956177,432.0,608.0,713.0,706.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.8599570989608765,676.0,626.0,919.0,716.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_johnii,0.7513603568077087,186.0,35.0,620.0,138.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.7236548066139221,114.0,361.0,290.0,516.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.7006246447563171,166.0,89.0,375.0,208.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.5723686814308167,75.0,542.0,316.0,687.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.5700252056121826,270.0,580.0,450.0,662.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.5699947476387024,744.0,56.0,991.0,183.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_johnii,0.48199620842933655,250.0,431.0,461.0,510.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_johnii,0.4753166139125824,287.0,506.0,435.0,595.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_johnii,0.4694105088710785,184.0,40.0,487.0,139.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.45383337140083313,284.0,505.0,435.0,596.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.43093153834342957,135.0,209.0,343.0,292.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.41498100757598877,115.0,296.0,359.0,381.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.3766988217830658,632.0,387.0,960.0,474.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.3530207574367523,408.0,412.0,686.0,520.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.35087910294532776,427.0,527.0,654.0,611.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.28861021995544434,55.0,424.0,320.0,580.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_johnii,0.2701801657676697,117.0,359.0,290.0,512.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697115710031.jpg,lutjanus_fulvus,0.2622286379337311,636.0,473.0,906.0,550.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697167269521.jpg,parupeneus_heptacanthus,0.2659970223903656,13.0,180.0,1024.0,479.0,['Lutjanus johnii'],parupeneus heptacanthus,['lutjanus johnii'],MISMATCH
+1697192142521.jpg,,,,,,,"['Caranx melampygus', 'Lutjanus gibbus']",,"['caranx melampygus', 'lutjanus gibbus']",NO_DETECTION
+1697192142521.jpg,,,,,,,"['Caranx melampygus', 'Lutjanus gibbus']",,"['caranx melampygus', 'lutjanus gibbus']",NO_DETECTION
+1697269118542.jpg,aurigequula_fasciata,0.6924673318862915,60.0,286.0,1002.0,656.0,"['Ferdauia orthogrammus', 'Rastrelliger kanagurta']",aurigequula fasciata,"['ferdauia orthogrammus', 'rastrelliger kanagurta']",MISMATCH
+1697269146308.jpg,lutjanus_johnii,0.5321542620658875,821.0,113.0,1024.0,332.0,"['Scomberoides tol', 'Scomberoides lysan']",lutjanus johnii,"['scomberoides tol', 'scomberoides lysan']",MISMATCH
+1697269146308.jpg,pomadasys_kaakan,0.2906617224216461,816.0,114.0,1023.0,328.0,"['Scomberoides tol', 'Scomberoides lysan']",pomadasys kaakan,"['scomberoides tol', 'scomberoides lysan']",MISMATCH
+1697269146308.jpg,lutjanus_johnii,0.5321342945098877,821.0,113.0,1024.0,332.0,"['Scomberoides tol', 'Scomberoides lysan']",lutjanus johnii,"['scomberoides tol', 'scomberoides lysan']",MISMATCH
+1697269146308.jpg,pomadasys_kaakan,0.2907505929470062,816.0,114.0,1023.0,328.0,"['Scomberoides tol', 'Scomberoides lysan']",pomadasys kaakan,"['scomberoides tol', 'scomberoides lysan']",MISMATCH
+1697269169209.jpg,aurigequula_fasciata,0.601151168346405,0.0,355.0,740.0,661.0,"['Carangidae', 'Aurigequula fasciata']",aurigequula fasciata,"['carangidae', 'aurigequula fasciata']",MATCH
+1697271152607.jpg,caranx_ignobilis,0.5330173969268799,141.0,267.0,567.0,765.0,"['Caranx sexfasciatus', 'Caranx melampygus']",caranx ignobilis,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1697271152607.jpg,caranx_ignobilis,0.4052085280418396,1.0,105.0,490.0,343.0,"['Caranx sexfasciatus', 'Caranx melampygus']",caranx ignobilis,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1697271152607.jpg,caranx_ignobilis,0.5327417850494385,141.0,267.0,567.0,765.0,"['Caranx sexfasciatus', 'Caranx melampygus']",caranx ignobilis,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1697271152607.jpg,caranx_ignobilis,0.4052365720272064,1.0,105.0,490.0,343.0,"['Caranx sexfasciatus', 'Caranx melampygus']",caranx ignobilis,"['caranx sexfasciatus', 'caranx melampygus']",MISMATCH
+1697271253513.jpg,alectis_ciliaris,0.3375455141067505,107.0,78.0,435.0,683.0,"['Ferdauia orthogrammus', 'Carangoides praeustus']",alectis ciliaris,"['ferdauia orthogrammus', 'carangoides praeustus']",MISMATCH
+1697271878006.jpg,,,,,,,"['Lethrinus reticulatus', 'Lutjanus rufolineatus']",,"['lethrinus reticulatus', 'lutjanus rufolineatus']",NO_DETECTION
+1697271878006.jpg,,,,,,,"['Lethrinus reticulatus', 'Lutjanus rufolineatus']",,"['lethrinus reticulatus', 'lutjanus rufolineatus']",NO_DETECTION
+1697272114334.jpg,,,,,,,"['Gymnocranius grandoculis', 'Parupeneus sp.', 'Pentapodus sp.']",,"['gymnocranius grandoculis', 'parupeneus sp.', 'pentapodus sp.']",NO_DETECTION
+1697272745846.jpg,pomadasys_argenteus,0.8659793734550476,467.0,131.0,847.0,851.0,['Aurigequula fasciata'],pomadasys argenteus,['aurigequula fasciata'],MISMATCH
+1697272745846.jpg,pomadasys_argenteus,0.6943674683570862,102.0,230.0,460.0,885.0,['Aurigequula fasciata'],pomadasys argenteus,['aurigequula fasciata'],MISMATCH
+1697272759438.jpg,aurigequula_fasciata,0.3002679646015167,275.0,261.0,700.0,707.0,"['Leiognathus sp.', 'Lutjanus gibbus', 'Parupeneus indicus', 'Polydactylus sp.']",aurigequula fasciata,"['leiognathus sp.', 'lutjanus gibbus', 'parupeneus indicus', 'polydactylus sp.']",MISMATCH
+1697272759438.jpg,aurigequula_fasciata,0.3002622425556183,275.0,261.0,700.0,707.0,"['Leiognathus sp.', 'Lutjanus gibbus', 'Parupeneus indicus', 'Polydactylus sp.']",aurigequula fasciata,"['leiognathus sp.', 'lutjanus gibbus', 'parupeneus indicus', 'polydactylus sp.']",MISMATCH
+1697273193293.jpg,,,,,,,['Acanthocybium solandri'],,['acanthocybium solandri'],NO_DETECTION
+1697505523144.jpg,lujanus_gibbus,0.8609533905982971,318.0,270.0,1024.0,509.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697505523144.jpg,lujanus_gibbus,0.4571518301963806,351.0,25.0,1024.0,278.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697506247065.jpg,lutjanus_fulvus,0.4729207158088684,529.0,142.0,1024.0,391.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697506247065.jpg,parupeneus_indicus,0.3240392208099365,174.0,519.0,789.0,768.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1697506294036.jpg,,,,,,,"['Neoniphon sammara', 'Myripristis sp.', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Mulloidichthys vanicolensis', 'Siganus spinus']",,"['neoniphon sammara', 'myripristis sp.', 'lethrinus ornatus', 'lutjanus gibbus', 'mulloidichthys vanicolensis', 'siganus spinus']",NO_DETECTION
+1697506294036.jpg,,,,,,,"['Neoniphon sammara', 'Myripristis sp.', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Mulloidichthys vanicolensis', 'Siganus spinus']",,"['neoniphon sammara', 'myripristis sp.', 'lethrinus ornatus', 'lutjanus gibbus', 'mulloidichthys vanicolensis', 'siganus spinus']",NO_DETECTION
+1697506294036.jpg,,,,,,,"['Neoniphon sammara', 'Myripristis sp.', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Mulloidichthys vanicolensis', 'Siganus spinus']",,"['neoniphon sammara', 'myripristis sp.', 'lethrinus ornatus', 'lutjanus gibbus', 'mulloidichthys vanicolensis', 'siganus spinus']",NO_DETECTION
+1697506294036.jpg,,,,,,,"['Neoniphon sammara', 'Myripristis sp.', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Mulloidichthys vanicolensis', 'Siganus spinus']",,"['neoniphon sammara', 'myripristis sp.', 'lethrinus ornatus', 'lutjanus gibbus', 'mulloidichthys vanicolensis', 'siganus spinus']",NO_DETECTION
+1697506355974.jpg,lutjanus_fulvus,0.6535179018974304,526.0,74.0,1024.0,372.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697506355974.jpg,parupeneus_indicus,0.49829623103141785,146.0,274.0,868.0,512.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1697506355974.jpg,parupeneus_indicus,0.4886086881160736,143.0,468.0,798.0,746.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1697506355974.jpg,parupeneus_indicus,0.4076198637485504,258.0,118.0,730.0,354.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1697506355974.jpg,lutjanus_fulvus,0.2565826177597046,631.0,294.0,1024.0,459.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697506406466.jpg,lujanus_gibbus,0.6147438883781433,315.0,131.0,876.0,346.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697506406466.jpg,lujanus_gibbus,0.43908506631851196,269.0,480.0,1002.0,733.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697506536349.jpg,,,,,,,"['Myripristis sp.', 'Lutjanus gibbus', 'Mulloidichthys vanicolensis', 'Scolopsis lineata']",,"['myripristis sp.', 'lutjanus gibbus', 'mulloidichthys vanicolensis', 'scolopsis lineata']",NO_DETECTION
+1697506620470.jpg,lujanus_gibbus,0.32678207755088806,484.0,198.0,905.0,416.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697506693057.jpg,lujanus_gibbus,0.750458300113678,357.0,178.0,1002.0,451.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697506693057.jpg,lujanus_gibbus,0.5543895959854126,328.0,403.0,1021.0,666.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697698487485.jpg,rastrelliger_kanagurta,0.3546753227710724,76.0,342.0,285.0,660.0,['Lutjanus gibbus'],rastrelliger kanagurta,['lutjanus gibbus'],MISMATCH
+1697698487485.jpg,rastrelliger_kanagurta,0.25994881987571716,213.0,273.0,389.0,623.0,['Lutjanus gibbus'],rastrelliger kanagurta,['lutjanus gibbus'],MISMATCH
+1697699933364.jpg,caranx_ignobilis,0.758150041103363,467.0,121.0,686.0,768.0,['Caranx sexfasciatus'],caranx ignobilis,['caranx sexfasciatus'],MISMATCH
+1697864502865.jpg,upeneus_vittatus,0.7546845078468323,429.0,369.0,609.0,445.0,['Lutjanus gibbus'],upeneus vittatus,['lutjanus gibbus'],MISMATCH
+1697864502865.jpg,lutjanus_fulvus,0.7218659520149231,548.0,173.0,768.0,247.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697864502865.jpg,lutjanus_fulvus,0.45193397998809814,263.0,164.0,497.0,249.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697864502865.jpg,upeneus_vittatus,0.40933746099472046,467.0,320.0,583.0,386.0,['Lutjanus gibbus'],upeneus vittatus,['lutjanus gibbus'],MISMATCH
+1697864502865.jpg,lutjanus_fulviflamma,0.3104720115661621,261.0,164.0,496.0,248.0,['Lutjanus gibbus'],lutjanus fulviflamma,['lutjanus gibbus'],MISMATCH
+1697864502865.jpg,lutjanus_fulviflamma,0.28965437412261963,270.0,311.0,497.0,384.0,['Lutjanus gibbus'],lutjanus fulviflamma,['lutjanus gibbus'],MISMATCH
+1697864667586.jpg,lutjanus_johnii,0.8868600726127625,393.0,61.0,777.0,192.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1697864667586.jpg,lutjanus_fulvus,0.7271783351898193,435.0,265.0,804.0,384.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697864667586.jpg,lutjanus_fulvus,0.5024197101593018,399.0,566.0,734.0,672.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697864667586.jpg,lutjanus_fulvus,0.3022403120994568,415.0,378.0,753.0,487.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1697864792743.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1697864893088.jpg,gymnocranius_grandoculis,0.6112920045852661,307.0,46.0,975.0,301.0,['Lutjanus gibbus'],gymnocranius grandoculis,['lutjanus gibbus'],MISMATCH
+1697865090545.jpg,lujanus_gibbus,0.5245485901832581,369.0,168.0,874.0,324.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697865090545.jpg,lujanus_gibbus,0.522250235080719,385.0,441.0,754.0,548.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697865090545.jpg,lujanus_gibbus,0.43734702467918396,365.0,321.0,822.0,450.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1697865090545.jpg,lujanus_gibbus,0.3586471676826477,384.0,544.0,754.0,666.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1698056471266.jpg,,,,,,,"['Lethrinus obsoletus', 'Lutjanus rufolineatus']",,"['lethrinus obsoletus', 'lutjanus rufolineatus']",NO_DETECTION
+1698056471266.jpg,,,,,,,"['Lethrinus obsoletus', 'Lutjanus rufolineatus']",,"['lethrinus obsoletus', 'lutjanus rufolineatus']",NO_DETECTION
+1698062202674.jpg,,,,,,,['Lutjanus johnii'],,['lutjanus johnii'],NO_DETECTION
+1698062431562.jpg,parupeneus_heptacanthus,0.2658196985721588,13.0,180.0,1024.0,479.0,['Lutjanus johnii'],parupeneus heptacanthus,['lutjanus johnii'],MISMATCH
+1698064010523.jpg,chirocentrus_dorab,0.9293044209480286,5.0,198.0,979.0,471.0,['Lutjanus johnii'],chirocentrus dorab,['lutjanus johnii'],MISMATCH
+1698141339810.jpg,lutjanus_johnii,0.7773112654685974,824.0,341.0,959.0,742.0,"['Lutjanus bohar', 'Lutjanus rufolineatus', 'Lutjanus gibbus']",lutjanus johnii,"['lutjanus bohar', 'lutjanus rufolineatus', 'lutjanus gibbus']",MISMATCH
+1698141339810.jpg,lutjanus_johnii,0.7772919535636902,824.0,341.0,959.0,742.0,"['Lutjanus bohar', 'Lutjanus rufolineatus', 'Lutjanus gibbus']",lutjanus johnii,"['lutjanus bohar', 'lutjanus rufolineatus', 'lutjanus gibbus']",MISMATCH
+1698141339810.jpg,lutjanus_johnii,0.7772964239120483,824.0,341.0,959.0,742.0,"['Lutjanus bohar', 'Lutjanus rufolineatus', 'Lutjanus gibbus']",lutjanus johnii,"['lutjanus bohar', 'lutjanus rufolineatus', 'lutjanus gibbus']",MISMATCH
+1698143082765.jpg,,,,,,,"['Caranx lugubris', 'Caranx ignobilis']",,"['caranx lugubris', 'caranx ignobilis']",NO_DETECTION
+1698143082765.jpg,,,,,,,"['Caranx lugubris', 'Caranx ignobilis']",,"['caranx lugubris', 'caranx ignobilis']",NO_DETECTION
+1698143235892.jpg,caranx_ignobilis,0.6682653427124023,2.0,357.0,199.0,715.0,['Caranx ignobilis'],caranx ignobilis,['caranx ignobilis'],MATCH
+1698274064708.jpg,pomadasys_kaakan,0.32675713300704956,700.0,186.0,884.0,686.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1698274064708.jpg,pomadasys_kaakan,0.3081618845462799,403.0,111.0,643.0,687.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1698274064708.jpg,pomadasys_kaakan,0.27382367849349976,188.0,3.0,475.0,699.0,['Lutjanus gibbus'],pomadasys kaakan,['lutjanus gibbus'],MISMATCH
+1698286550777.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698317977154.jpg,parupeneus_heptacanthus,0.8729437589645386,51.0,139.0,1022.0,455.0,['Etelis carbunculus'],parupeneus heptacanthus,['etelis carbunculus'],MISMATCH
+1698318008840.jpg,,,,,,,['Pristigenys niphonia'],,['pristigenys niphonia'],NO_DETECTION
+1698318241974.jpg,variola_albimarginata,0.9274420142173767,0.0,15.0,991.0,545.0,['Lutjanus bohar'],variola albimarginata,['lutjanus bohar'],MISMATCH
+1698318445111.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318472782.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318508599.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318542443.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318697920.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318725562.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698318753454.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698324089147.jpg,scomberomorus_commerson,0.45667052268981934,425.0,167.0,631.0,700.0,['Lutjanus gibbus'],scomberomorus commerson,['lutjanus gibbus'],MISMATCH
+1698324089147.jpg,pomadasys_argenteus,0.28367915749549866,720.0,189.0,907.0,680.0,['Lutjanus gibbus'],pomadasys argenteus,['lutjanus gibbus'],MISMATCH
+1698324089147.jpg,scomberomorus_commerson,0.2523016333580017,722.0,189.0,904.0,682.0,['Lutjanus gibbus'],scomberomorus commerson,['lutjanus gibbus'],MISMATCH
+1698324685559.jpg,,,,,,,['Monotaxis grandoculis'],,['monotaxis grandoculis'],NO_DETECTION
+1698409882802.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698409920330.jpg,parupeneus_indicus,0.6987965106964111,140.0,213.0,1019.0,489.0,['Etelis carbunculus'],parupeneus indicus,['etelis carbunculus'],MISMATCH
+1698409920330.jpg,parupeneus_heptacanthus,0.28375494480133057,135.0,212.0,1018.0,496.0,['Etelis carbunculus'],parupeneus heptacanthus,['etelis carbunculus'],MISMATCH
+1698410051361.jpg,,,,,,,['Etelis carbunculus'],,['etelis carbunculus'],NO_DETECTION
+1698410084921.jpg,,,,,,,"['Epinephelus radiatus', 'Etelis carbunculus']",,"['epinephelus radiatus', 'etelis carbunculus']",NO_DETECTION
+1698410084921.jpg,,,,,,,"['Epinephelus radiatus', 'Etelis carbunculus']",,"['epinephelus radiatus', 'etelis carbunculus']",NO_DETECTION
+1698410212946.jpg,upeneus_vittatus,0.802907407283783,421.0,48.0,887.0,175.0,['Etelis carbunculus'],upeneus vittatus,['etelis carbunculus'],MISMATCH
+1698410212946.jpg,upeneus_vittatus,0.7102145552635193,352.0,147.0,641.0,466.0,['Etelis carbunculus'],upeneus vittatus,['etelis carbunculus'],MISMATCH
+1698410212946.jpg,upeneus_vittatus,0.41735655069351196,130.0,331.0,515.0,509.0,['Etelis carbunculus'],upeneus vittatus,['etelis carbunculus'],MISMATCH
+1698410212946.jpg,lutjanus_johnii,0.36267727613449097,528.0,37.0,1023.0,249.0,['Etelis carbunculus'],lutjanus johnii,['etelis carbunculus'],MISMATCH
+1698410256777.jpg,,,,,,,['Epinephelus radiatus'],,['epinephelus radiatus'],NO_DETECTION
+1698527855359.jpg,parupeneus_heptacanthus,0.887302577495575,90.0,136.0,311.0,704.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698527855359.jpg,parupeneus_heptacanthus,0.6744861602783203,448.0,4.0,667.0,359.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698527855359.jpg,parupeneus_heptacanthus,0.32020798325538635,612.0,0.0,821.0,346.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528173571.jpg,pomadasys_kaakan,0.4899827241897583,2.0,206.0,646.0,488.0,['Caranx melampygus'],pomadasys kaakan,['caranx melampygus'],MISMATCH
+1698528173571.jpg,pomadasys_kaakan,0.2735165059566498,2.0,196.0,652.0,611.0,['Caranx melampygus'],pomadasys kaakan,['caranx melampygus'],MISMATCH
+1698528209061.jpg,parupeneus_heptacanthus,0.9170077443122864,39.0,16.0,218.0,528.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528209061.jpg,parupeneus_heptacanthus,0.8548543453216553,203.0,9.0,375.0,564.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528209061.jpg,parupeneus_heptacanthus,0.6162049174308777,698.0,6.0,980.0,416.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9360520243644714,0.0,0.0,224.0,465.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9329450130462646,668.0,1.0,922.0,356.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9207523465156555,104.0,2.0,391.0,385.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.7531651854515076,346.0,4.0,540.0,388.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,lutjanus_johnii,0.4089988172054291,324.0,441.0,613.0,611.0,"['Lutjanus gibbus', 'Lutjanus bohar']",lutjanus johnii,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9360555410385132,0.0,0.0,224.0,465.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9329975247383118,668.0,1.0,922.0,356.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.9207291007041931,104.0,2.0,391.0,385.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,parupeneus_heptacanthus,0.7531164288520813,346.0,4.0,540.0,388.0,"['Lutjanus gibbus', 'Lutjanus bohar']",parupeneus heptacanthus,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528308697.jpg,lutjanus_johnii,0.40884479880332947,324.0,441.0,613.0,611.0,"['Lutjanus gibbus', 'Lutjanus bohar']",lutjanus johnii,"['lutjanus gibbus', 'lutjanus bohar']",MISMATCH
+1698528467655.jpg,parupeneus_heptacanthus,0.8873570561408997,90.0,136.0,311.0,704.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528467655.jpg,parupeneus_heptacanthus,0.6742978692054749,448.0,4.0,667.0,359.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528467655.jpg,parupeneus_heptacanthus,0.3199358880519867,612.0,0.0,821.0,346.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698528616835.jpg,,,,,,,['Caranx lugubris'],,['caranx lugubris'],NO_DETECTION
+1698528638801.jpg,parupeneus_heptacanthus,0.4103322923183441,252.0,4.0,634.0,448.0,"['Lutjanus bohar', 'Lutjanus gibbus']",parupeneus heptacanthus,"['lutjanus bohar', 'lutjanus gibbus']",MISMATCH
+1698528638801.jpg,parupeneus_heptacanthus,0.4104160964488983,252.0,4.0,634.0,448.0,"['Lutjanus bohar', 'Lutjanus gibbus']",parupeneus heptacanthus,"['lutjanus bohar', 'lutjanus gibbus']",MISMATCH
+1698546478939.jpg,pomadasys_kaakan,0.2525075376033783,48.0,270.0,1017.0,578.0,['Caranx melampygus'],pomadasys kaakan,['caranx melampygus'],MISMATCH
+1698546986877.jpg,alectis_ciliaris,0.4920670688152313,37.0,140.0,826.0,631.0,['Caranx melampygus'],alectis ciliaris,['caranx melampygus'],MISMATCH
+1698546986877.jpg,pomadasys_argenteus,0.4269806146621704,20.0,140.0,831.0,630.0,['Caranx melampygus'],pomadasys argenteus,['caranx melampygus'],MISMATCH
+1698547361115.jpg,chirocentrus_dorab,0.3750651478767395,0.0,2.0,729.0,134.0,['Scomberoides tol'],chirocentrus dorab,['scomberoides tol'],MISMATCH
+1698547581641.jpg,,,,,,,"['Lutjanus rufolineatus', 'Lutjanus gibbus']",,"['lutjanus rufolineatus', 'lutjanus gibbus']",NO_DETECTION
+1698547581641.jpg,,,,,,,"['Lutjanus rufolineatus', 'Lutjanus gibbus']",,"['lutjanus rufolineatus', 'lutjanus gibbus']",NO_DETECTION
+1698547818209.jpg,rastrelliger_kanagurta,0.297174870967865,618.0,222.0,827.0,675.0,"['Ferdauia orthogrammus', 'Parupeneus heptacanthus']",rastrelliger kanagurta,"['ferdauia orthogrammus', 'parupeneus heptacanthus']",MISMATCH
+1698547818209.jpg,lutjanus_johnii,0.25864550471305847,502.0,77.0,816.0,309.0,"['Ferdauia orthogrammus', 'Parupeneus heptacanthus']",lutjanus johnii,"['ferdauia orthogrammus', 'parupeneus heptacanthus']",MISMATCH
+1698547995586.jpg,aurigequula_fasciata,0.4232114553451538,315.0,318.0,822.0,569.0,['Aurigequula fasciata'],aurigequula fasciata,['aurigequula fasciata'],MATCH
+1698548194367.jpg,variola_albimarginata,0.4923640489578247,96.0,244.0,1010.0,560.0,['Lutjanus bohar'],variola albimarginata,['lutjanus bohar'],MISMATCH
+1698548194367.jpg,lutjanus_bohar,0.33525756001472473,82.0,240.0,1008.0,561.0,['Lutjanus bohar'],lutjanus bohar,['lutjanus bohar'],MATCH
+1698548955693.jpg,lutjanus_johnii,0.5568780899047852,45.0,0.0,711.0,161.0,"['Myripristis sp.', 'Lutjanus rufolineatus', 'Lutjanus timoriensis', 'Nemipterus sp.']",lutjanus johnii,"['myripristis sp.', 'lutjanus rufolineatus', 'lutjanus timoriensis', 'nemipterus sp.']",MISMATCH
+1698548955693.jpg,lutjanus_johnii,0.4128722548484802,286.0,109.0,995.0,372.0,"['Myripristis sp.', 'Lutjanus rufolineatus', 'Lutjanus timoriensis', 'Nemipterus sp.']",lutjanus johnii,"['myripristis sp.', 'lutjanus rufolineatus', 'lutjanus timoriensis', 'nemipterus sp.']",MISMATCH
+1698549061480.jpg,alectis_ciliaris,0.8019900321960449,68.0,262.0,1024.0,730.0,['Alectis ciliaris'],alectis ciliaris,['alectis ciliaris'],MATCH
+1698660942801.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698661235894.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698661390954.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698661541066.jpg,sardinella_albella,0.28289544582366943,103.0,29.0,1024.0,516.0,['Caranx lugubris'],sardinella albella,['caranx lugubris'],MISMATCH
+1698661562885.jpg,gymnocranius_grandoculis,0.40861040353775024,288.0,450.0,978.0,665.0,['Lutjanus gibbus'],gymnocranius grandoculis,['lutjanus gibbus'],MISMATCH
+1698661562885.jpg,lujanus_gibbus,0.32153135538101196,260.0,173.0,976.0,483.0,['Lutjanus gibbus'],lujanus gibbus,['lutjanus gibbus'],MISMATCH
+1698662104886.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698662651172.jpg,lutjanus_fulvus,0.5933223366737366,410.0,256.0,803.0,443.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1698662758223.jpg,lutjanus_fulvus,0.6319006681442261,110.0,118.0,765.0,355.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1698662758223.jpg,lutjanus_fulvus,0.5660237073898315,136.0,340.0,630.0,508.0,['Lutjanus gibbus'],lutjanus fulvus,['lutjanus gibbus'],MISMATCH
+1698662908475.jpg,parupeneus_indicus,0.5037781000137329,219.0,180.0,959.0,451.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1698662908475.jpg,parupeneus_indicus,0.28799402713775635,275.0,458.0,805.0,640.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1698663806513.jpg,,,,,,,"['Sufflamen sp.', 'Lethrinus atkinsoni', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Siganus spinus']",,"['sufflamen sp.', 'lethrinus atkinsoni', 'lethrinus ornatus', 'lutjanus gibbus', 'siganus spinus']",NO_DETECTION
+1698663806513.jpg,,,,,,,"['Sufflamen sp.', 'Lethrinus atkinsoni', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Siganus spinus']",,"['sufflamen sp.', 'lethrinus atkinsoni', 'lethrinus ornatus', 'lutjanus gibbus', 'siganus spinus']",NO_DETECTION
+1698663806513.jpg,,,,,,,"['Sufflamen sp.', 'Lethrinus atkinsoni', 'Lethrinus ornatus', 'Lutjanus gibbus', 'Siganus spinus']",,"['sufflamen sp.', 'lethrinus atkinsoni', 'lethrinus ornatus', 'lutjanus gibbus', 'siganus spinus']",NO_DETECTION
+1698740072533.jpg,parupeneus_indicus,0.8144643306732178,535.0,85.0,806.0,688.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1698740072533.jpg,parupeneus_indicus,0.34351417422294617,84.0,105.0,374.0,765.0,['Lutjanus gibbus'],parupeneus indicus,['lutjanus gibbus'],MISMATCH
+1698740471563.jpg,parupeneus_heptacanthus,0.3214682936668396,246.0,4.0,416.0,515.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698740970816.jpg,rastrelliger_kanagurta,0.26777803897857666,819.0,155.0,1022.0,498.0,"['Acanthurus nigricans', 'Lutjanus gibbus']",rastrelliger kanagurta,"['acanthurus nigricans', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.8730393052101135,411.0,472.0,663.0,628.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.7595721483230591,435.0,413.0,591.0,489.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.26915934681892395,536.0,389.0,623.0,475.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.8730897307395935,411.0,472.0,663.0,628.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.7594372034072876,435.0,413.0,591.0,489.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.2691847085952759,536.0,389.0,623.0,475.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.8730393052101135,411.0,472.0,663.0,628.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.7595721483230591,435.0,413.0,591.0,489.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698741342007.jpg,upeneus_vittatus,0.26915934681892395,536.0,389.0,623.0,475.0,"['Lethrinus reticulatus', 'Lutjanus fulvus', 'Lutjanus gibbus']",upeneus vittatus,"['lethrinus reticulatus', 'lutjanus fulvus', 'lutjanus gibbus']",MISMATCH
+1698884042665.jpg,,,,,,,['Lutjanus johnii'],,['lutjanus johnii'],NO_DETECTION
+1698926218599.jpg,lutjanus_johnii,0.6505993008613586,224.0,220.0,400.0,663.0,['Lutjanus gibbus'],lutjanus johnii,['lutjanus gibbus'],MISMATCH
+1698926724684.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698927145975.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698927262789.jpg,parupeneus_heptacanthus,0.8769736289978027,355.0,248.0,516.0,734.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698927262789.jpg,parupeneus_heptacanthus,0.7278857231140137,662.0,274.0,875.0,689.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698927784464.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698928222909.jpg,parupeneus_heptacanthus,0.4618458151817322,359.0,247.0,549.0,717.0,['Lutjanus gibbus'],parupeneus heptacanthus,['lutjanus gibbus'],MISMATCH
+1698928321548.jpg,,,,,,,['Lutjanus gibbus'],,['lutjanus gibbus'],NO_DETECTION
+1698928724030.jpg,lujanus_gibbus,0.9043416380882263,678.0,278.0,1023.0,413.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,lujanus_gibbus,0.8208252787590027,564.0,386.0,1023.0,580.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,lujanus_gibbus,0.7283531427383423,226.0,229.0,781.0,432.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,parupeneus_indicus,0.29842686653137207,191.0,392.0,746.0,670.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",parupeneus indicus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,lujanus_gibbus,0.9043416380882263,678.0,278.0,1023.0,413.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,lujanus_gibbus,0.8208252787590027,564.0,386.0,1023.0,580.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,lujanus_gibbus,0.7283531427383423,226.0,229.0,781.0,432.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",lujanus gibbus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1698928724030.jpg,parupeneus_indicus,0.29842686653137207,191.0,392.0,746.0,670.0,"['Lethrinus sp.', 'Lutjanus gibbus', 'Siganus fuscescens', 'Siganus spinus']",parupeneus indicus,"['lethrinus sp.', 'lutjanus gibbus', 'siganus fuscescens', 'siganus spinus']",MISMATCH
+1699164458540.jpg,,,,,,,['Lutjanus bohar'],,['lutjanus bohar'],NO_DETECTION
+1699167222100.jpg,,,,,,,['Lutjanus bohar'],,['lutjanus bohar'],NO_DETECTION
+1699167338210.jpg,,,,,,,['Lutjanus bohar'],,['lutjanus bohar'],NO_DETECTION
+1699355005032.jpg,caranx_ignobilis,0.9010699391365051,48.0,103.0,826.0,403.0,"['Caranx sexfasciatus', 'Caranx sp.', 'Aphareus rutilans']",caranx ignobilis,"['caranx sexfasciatus', 'caranx sp.', 'aphareus rutilans']",MISMATCH
+1699355005032.jpg,caranx_ignobilis,0.9010021090507507,48.0,103.0,826.0,403.0,"['Caranx sexfasciatus', 'Caranx sp.', 'Aphareus rutilans']",caranx ignobilis,"['caranx sexfasciatus', 'caranx sp.', 'aphareus rutilans']",MISMATCH
+1699355166176.jpg,,,,,,,"['Lethrinus mahsena', 'Lutjanus bohar', 'Lutjanus gibbus']",,"['lethrinus mahsena', 'lutjanus bohar', 'lutjanus gibbus']",NO_DETECTION
+1699355166176.jpg,,,,,,,"['Lethrinus mahsena', 'Lutjanus bohar', 'Lutjanus gibbus']",,"['lethrinus mahsena', 'lutjanus bohar', 'lutjanus gibbus']",NO_DETECTION
+1699355166176.jpg,,,,,,,"['Lethrinus mahsena', 'Lutjanus bohar', 'Lutjanus gibbus']",,"['lethrinus mahsena', 'lutjanus bohar', 'lutjanus gibbus']",NO_DETECTION
+1699355371850.jpg,gymnocranius_grandoculis,0.6309512257575989,76.0,450.0,706.0,768.0,"['Caranx ignobilis', 'Caranx sexfasciatus', 'Aphareus rutilans']",gymnocranius grandoculis,"['caranx ignobilis', 'caranx sexfasciatus', 'aphareus rutilans']",MISMATCH
+1699355371850.jpg,gymnocranius_grandoculis,0.630740225315094,76.0,450.0,706.0,768.0,"['Caranx ignobilis', 'Caranx sexfasciatus', 'Aphareus rutilans']",gymnocranius grandoculis,"['caranx ignobilis', 'caranx sexfasciatus', 'aphareus rutilans']",MISMATCH
+1699355371850.jpg,gymnocranius_grandoculis,0.6309512257575989,76.0,450.0,706.0,768.0,"['Caranx ignobilis', 'Caranx sexfasciatus', 'Aphareus rutilans']",gymnocranius grandoculis,"['caranx ignobilis', 'caranx sexfasciatus', 'aphareus rutilans']",MISMATCH
+1699356149974.jpg,scomberoides_tol,0.818193256855011,493.0,137.0,710.0,204.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356149974.jpg,scomberoides_tol,0.6671927571296692,502.0,301.0,653.0,447.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356149974.jpg,scomberoides_tol,0.6123132705688477,442.0,269.0,562.0,326.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356149974.jpg,scomberoides_tol,0.5446395874023438,572.0,116.0,801.0,279.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356149974.jpg,scomberoides_tol,0.5437160730361938,441.0,269.0,604.0,331.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356149974.jpg,scomberoides_tol,0.36235928535461426,367.0,311.0,473.0,354.0,['Decapterus macarellus'],scomberoides tol,['decapterus macarellus'],MISMATCH
+1699356276708.jpg,,,,,,,['Decapterus macarellus'],,['decapterus macarellus'],NO_DETECTION
+1699356483694.jpg,,,,,,,['Caranx melampygus'],,['caranx melampygus'],NO_DETECTION

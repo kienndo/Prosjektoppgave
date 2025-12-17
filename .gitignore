@@ -17,6 +17,7 @@ helpers/poppler/
 helpers/wiof_output_allpages/
 helpers/wiof_output_allpages.zip
 yolo/full_dataset/
+yolo/final_dataset/
 
 helpers/iNaturalist
 helpers/iNaturalist_filtered
